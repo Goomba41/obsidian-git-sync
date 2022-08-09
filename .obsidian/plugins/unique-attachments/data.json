@@ -1,0 +1,15 @@
+{
+  "ignoreFolders": [
+    ".git/",
+    ".obsidian/"
+  ],
+  "renameFileTypes": [
+    "png",
+    "jpg",
+    "gif",
+    "svg"
+  ],
+  "renameOnlyLinkedAttachments": true,
+  "mergeTheSameAttachments": true,
+  "savePreviousName": false
+}

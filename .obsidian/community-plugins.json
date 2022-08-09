@@ -1,3 +1,14 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "consistent-attachments-and-links",
+  "unique-attachments",
+  "find-unlinked-files",
+  "templater-obsidian",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "sliding-panes-obsidian",
+  "obsidian-emoji-toolbar",
+  "obsidian-mind-map",
+  "drawio-obsidian"
 ]

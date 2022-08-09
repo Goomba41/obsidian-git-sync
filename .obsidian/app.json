@@ -1,3 +1,11 @@
 {
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "__attachments__",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ]
 }
