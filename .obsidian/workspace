@@ -10,10 +10,24 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
-        }
+        },
+        "group": "145eed89204d9a9d"
+      },
+      {
+        "id": "28a666164b6a91b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "145eed89204d9a9d"
       }
     ],
     "direction": "vertical"
@@ -136,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abdd5885b5a66022",
+  "active": "28a666164b6a91b5",
   "lastOpenFiles": [
     "2022-08-10.md",
     "README.md",
