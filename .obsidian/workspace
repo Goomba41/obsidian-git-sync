@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e19ed83c7702fbb",
+        "id": "28e4f8ac88f0e10d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Новая папка/new note.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Новая папка/new note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Новая папка/new note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,19 +117,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Новая папка/new note.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8e19ed83c7702fbb",
+  "active": "1ab4617530383c65",
   "lastOpenFiles": [
+    "Новая папка/new note.md",
     "README.md",
     "Pasted image 20220809162550.png.md",
     "Pasted image 20220809162550.png",

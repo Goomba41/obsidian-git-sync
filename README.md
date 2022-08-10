@@ -1,2 +1,1 @@
-this is test of sync
-autosyncing test
+Хранилище Obsidian для хранения заметок
