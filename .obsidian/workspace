@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "28e4f8ac88f0e10d",
+        "id": "abdd5885b5a66022",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source",
-            "source": false
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -120,18 +120,27 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "b29d5bee9ad34a61",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "1ab4617530383c65",
+  "active": "abdd5885b5a66022",
   "lastOpenFiles": [
-    "Новая папка/new note.md",
+    "2022-08-10.md",
     "README.md",
+    "Новая папка/new note.md",
     "Pasted image 20220809162550.png.md",
     "Pasted image 20220809162550.png",
     "Diagram.svg"
