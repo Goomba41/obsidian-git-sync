@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "1ace949e50549158",
+        "id": "4ccf57559485cc6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программирование/API/REST vs GraphQL.md",
+            "file": "Программирование/API/Лучшие практики построения API.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "8d4f56d09b606b2d"
+        "group": "41539b7479ebb595"
       },
       {
-        "id": "14bd1330dd7d13e4",
+        "id": "6e2364026ca7739c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программирование/API/REST vs GraphQL.md",
+            "file": "Программирование/API/Лучшие практики построения API.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "8d4f56d09b606b2d"
+        "group": "41539b7479ebb595"
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 190.5
   },
   "right": {
     "id": "a87347b057b88494",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/API/REST vs GraphQL.md",
+                "file": "Программирование/API/Лучшие практики построения API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/API/REST vs GraphQL.md",
+                "file": "Программирование/API/Лучшие практики построения API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/API/REST vs GraphQL.md"
+                "file": "Программирование/API/Лучшие практики построения API.md"
               }
             }
           },
@@ -150,15 +150,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ace949e50549158",
+  "active": "4ccf57559485cc6b",
   "lastOpenFiles": [
+    "Программирование/API/REST.md",
     "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/API/Параметризация маршрутов.md",
     "Программирование/API/REST vs GraphQL.md",
     "Программирование/API/GraphQL.md",
-    "Программирование/API/REST.md",
     "Программирование/Общее/Типы регистров.md",
     "Программирование/API/Версионирование.md",
-    "Программирование/API/Параметризация маршрутов.md",
     "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
     "README.md",
     "2022-08-10.md"
