@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Программирование/API/REST.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 190.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "a87347b057b88494",
@@ -150,18 +151,19 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4ccf57559485cc6b",
+  "active": "6e2364026ca7739c",
   "lastOpenFiles": [
-    "Программирование/API/Лучшие практики построения API.md",
-    "Программирование/API/REST.md",
     "Программирование/Общее/Методы HTTP.md",
+    "Программирование/API/REST.md",
+    "Программирование/API/Лучшие практики построения API.md",
     "Программирование/API/Параметризация маршрутов.md",
     "Программирование/API/REST vs GraphQL.md",
     "Программирование/API/GraphQL.md",
