@@ -4,39 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9643b9aab031afc4",
-        "type": "split",
-        "children": [
-          {
-            "id": "12ec5b3f2a3edab6",
-            "type": "leaf",
-            "dimension": 46.46569646569647,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "541259a971dbb973"
-          },
-          {
-            "id": "1ace949e50549158",
-            "type": "leaf",
-            "dimension": 53.53430353430353,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "541259a971dbb973"
+        "id": "1ace949e50549158",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Программирование/API/Лучшие практики построения API.md",
+            "mode": "preview",
+            "source": true
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 180.5
+    "width": 263.5
   },
   "right": {
     "id": "a87347b057b88494",
@@ -160,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12ec5b3f2a3edab6",
+  "active": "1ace949e50549158",
   "lastOpenFiles": [
     "Программирование/API/Версионирование.md",
     "Программирование/API/Лучшие практики построения API.md",
