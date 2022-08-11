@@ -10,6 +10,7 @@
           {
             "id": "12ec5b3f2a3edab6",
             "type": "leaf",
+            "dimension": 46.46569646569647,
             "state": {
               "type": "markdown",
               "state": {
@@ -23,6 +24,7 @@
           {
             "id": "1ace949e50549158",
             "type": "leaf",
+            "dimension": 53.53430353430353,
             "state": {
               "type": "markdown",
               "state": {
@@ -158,7 +160,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94f8f1e208cd75b0",
+  "active": "12ec5b3f2a3edab6",
   "lastOpenFiles": [
     "Программирование/API/Версионирование.md",
     "Программирование/API/Лучшие практики построения API.md",

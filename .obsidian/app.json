@@ -8,5 +8,8 @@
     "ru",
     "en-US"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "livePreview": false
 }
