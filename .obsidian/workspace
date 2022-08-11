@@ -4,30 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4ccf57559485cc6b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Программирование/API/Лучшие практики построения API.md",
-            "mode": "source",
-            "source": true
+        "id": "1bf8ca236496b2a0",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ccf57559485cc6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/API/REST.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "41539b7479ebb595"
+          },
+          {
+            "id": "6e2364026ca7739c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/API/REST.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "41539b7479ebb595"
           }
-        },
-        "group": "41539b7479ebb595"
-      },
-      {
-        "id": "6e2364026ca7739c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Программирование/API/Лучшие практики построения API.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "41539b7479ebb595"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -91,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
+                "file": "Программирование/API/REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
+                "file": "Программирование/API/REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md"
+                "file": "Программирование/API/REST.md"
               }
             }
           },
@@ -152,15 +159,15 @@
   },
   "active": "4ccf57559485cc6b",
   "lastOpenFiles": [
-    "Программирование/API/REST.md",
     "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/API/REST.md",
+    "Программирование/Общее/Методы HTTP.md",
     "Программирование/API/Параметризация маршрутов.md",
     "Программирование/API/REST vs GraphQL.md",
     "Программирование/API/GraphQL.md",
     "Программирование/Общее/Типы регистров.md",
     "Программирование/API/Версионирование.md",
     "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
-    "README.md",
-    "2022-08-10.md"
+    "README.md"
   ]
 }
