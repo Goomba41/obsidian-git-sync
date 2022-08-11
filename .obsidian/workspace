@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "abdd5885b5a66022",
+        "id": "12ec5b3f2a3edab6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Программирование/API/Лучшие практики построения API.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         },
-        "group": "145eed89204d9a9d"
+        "group": "541259a971dbb973"
       },
       {
-        "id": "28a666164b6a91b5",
+        "id": "1ace949e50549158",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Программирование/API/Лучшие практики построения API.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
         },
-        "group": "145eed89204d9a9d"
+        "group": "541259a971dbb973"
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 100
   },
   "right": {
     "id": "a87347b057b88494",
@@ -151,10 +151,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abdd5885b5a66022",
+  "active": "1ace949e50549158",
   "lastOpenFiles": [
-    "Программирование/Общее/Типы регистров.md",
+    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
+    "Программирование/API/Без названия.md",
     "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/Общее/Типы регистров.md",
     "README.md",
     "2022-08-10.md",
     "Новая папка/new note.md",
