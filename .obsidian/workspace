@@ -151,24 +151,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "12ec5b3f2a3edab6",
+  "active": "94f8f1e208cd75b0",
   "lastOpenFiles": [
-    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
-    "Программирование/API/Без названия.md",
+    "Программирование/API/Версионирование.md",
     "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/API/Параметризация маршрутов.md",
+    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
     "Программирование/Общее/Типы регистров.md",
     "README.md",
     "2022-08-10.md",
     "Новая папка/new note.md",
     "Pasted image 20220809162550.png.md",
-    "Pasted image 20220809162550.png",
-    "Diagram.svg"
+    "Pasted image 20220809162550.png"
   ]
 }
