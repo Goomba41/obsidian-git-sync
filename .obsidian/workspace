@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API/REST.md",
+                "file": "Программирование/API/API.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API/REST.md",
+                "file": "Программирование/API/API.md",
                 "mode": "preview",
                 "source": true
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
+    "width": 274.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/API/REST.md",
+                "file": "Программирование/API/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/API/REST.md",
+                "file": "Программирование/API/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/API/REST.md"
+                "file": "Программирование/API/API.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94f8f1e208cd75b0",
+  "active": "6e2364026ca7739c",
   "lastOpenFiles": [
-    "Программирование/Общее/Методы HTTP.md",
     "Программирование/API/REST.md",
+    "Программирование/API/API.md",
     "Программирование/API/Лучшие практики построения API.md",
     "Программирование/API/Параметризация маршрутов.md",
+    "Программирование/Общее/Методы HTTP.md",
     "Программирование/API/REST vs GraphQL.md",
     "Программирование/API/GraphQL.md",
     "Программирование/Общее/Типы регистров.md",
     "Программирование/API/Версионирование.md",
-    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
-    "README.md"
+    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md"
   ]
 }
