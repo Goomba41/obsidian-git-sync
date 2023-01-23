@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API/API.md",
+                "file": "Программирование/Linux/CLI-инструменты.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API/API.md",
+                "file": "Программирование/Linux/CLI-инструменты.md",
                 "mode": "preview",
                 "source": true
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "a87347b057b88494",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/API/API.md",
+                "file": "Программирование/Linux/CLI-инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/API/API.md",
+                "file": "Программирование/Linux/CLI-инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/API/API.md"
+                "file": "Программирование/Linux/CLI-инструменты.md"
               }
             }
           },
@@ -159,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e2364026ca7739c",
+  "active": "4ccf57559485cc6b",
   "lastOpenFiles": [
     "Программирование/API/REST.md",
-    "Программирование/API/API.md",
+    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
+    "Программирование/Linux/CLI-инструменты.md",
     "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/API/Версионирование.md",
+    "Программирование/API/API.md",
     "Программирование/API/Параметризация маршрутов.md",
     "Программирование/Общее/Методы HTTP.md",
     "Программирование/API/REST vs GraphQL.md",
-    "Программирование/API/GraphQL.md",
-    "Программирование/Общее/Типы регистров.md",
-    "Программирование/API/Версионирование.md",
-    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md"
+    "Программирование/API/GraphQL.md"
   ]
 }
