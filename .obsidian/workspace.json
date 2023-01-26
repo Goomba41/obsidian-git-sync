@@ -4,61 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "5a7310475587f333",
+        "id": "25c804b34d0d0648",
         "type": "tabs",
         "children": [
           {
-            "id": "abdd5885b5a66022",
+            "id": "0881771c12f25f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "145eed89204d9a9d"
-          },
-          {
-            "id": "385532d256289a60",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
             }
           },
           {
-            "id": "2b828a2df0c8df8d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "dce8cd9727d737f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28a666164b6a91b5",
+            "id": "3dcad6a355be9351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a7867d37b73653f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6b3414fe5a4868d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Frontend/Tools/Иконочные библиотеки.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "145eed89204d9a9d"
+            }
           }
         ]
       }
@@ -126,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/API/Лучшие практики построения API.md"
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md"
               }
             }
           },
@@ -198,10 +187,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2b828a2df0c8df8d",
+  "active": "0881771c12f25f10",
   "lastOpenFiles": [
-    "Программирование/Общее/Типы регистров.md",
+    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
+    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
     "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/Общее/Типы регистров.md",
     "README.md",
     "2022-08-10.md",
     "Новая папка/new note.md",
