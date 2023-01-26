@@ -9,9 +9,9 @@
 1. **[exa](https://github.com/ogham/exa)** - продвинутый ls
 2. **[zoxide](https://github.com/ajeetdsouza/zoxide)** - продвинутый cd
 3. **[thefuck](https://github.com/nvbn/thefuck)** - исправление команд.
-4. **mc** -
-5. **htop**
-6. **vim**
+4. **mc** - двухпанельный менеджер файлов
+5. **htop** - диспетчер задач
+6. **vim** - текстовый редактор
 7. **mc**
 8. **mc**
 9. **mc**
