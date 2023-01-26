@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ec0697d6236c275e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Frontend/Tools/Всякое полезное.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "3dcad6a355be9351",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0a7867d37b73653f",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+                "file": "Программирование/Frontend/Tools/Всякое полезное.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+                "file": "Программирование/Frontend/Tools/Всякое полезное.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md"
+                "file": "Программирование/Frontend/Tools/Всякое полезное.md"
               }
             }
           },
@@ -187,10 +200,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0881771c12f25f10",
+  "active": "ec0697d6236c275e",
   "lastOpenFiles": [
-    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
     "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
     "Программирование/API/Лучшие практики построения API.md",
     "Программирование/Общее/Типы регистров.md",
     "README.md",
