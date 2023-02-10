@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+                "file": "Программирование/Frontend/Tools/Иконочные библиотеки.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+                "file": "Программирование/Frontend/Tools/Иконочные библиотеки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+                "file": "Программирование/Frontend/Tools/Иконочные библиотеки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md"
+                "file": "Программирование/Frontend/Tools/Иконочные библиотеки.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "ec0697d6236c275e",
   "lastOpenFiles": [
+    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
     "Программирование/Linux/CLI-инструменты.md",
     "Программирование/Frontend/Tools/Всякое полезное.md",
-    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
     "Программирование/Frontend/Tools/Иконочные библиотеки.md",
     "Программирование/API/Лучшие практики построения API.md",
     "Программирование/Общее/Типы регистров.md",
