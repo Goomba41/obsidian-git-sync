@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Linux/CLI-инструменты.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Linux/CLI-инструменты.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование/Linux/CLI-инструменты.md",
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/CLI-инструменты.md"
+                "file": "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "ec0697d6236c275e",
   "lastOpenFiles": [
+    "Программирование/Linux/CLI-инструменты.md",
     "Программирование/Frontend/Tools/Всякое полезное.md",
     "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
     "Программирование/Frontend/Tools/Иконочные библиотеки.md",
@@ -180,7 +181,6 @@
     "README.md",
     "2022-08-10.md",
     "Новая папка/new note.md",
-    "Pasted image 20220809162550.png.md",
-    "Pasted image 20220809162550.png"
+    "Pasted image 20220809162550.png.md"
   ]
 }
