@@ -4,10 +4,7 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false,
   "spellcheck": true,
   "showLineNumber": true,
