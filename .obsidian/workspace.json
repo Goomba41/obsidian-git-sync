@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "63bdf1a491afd4f0",
+        "id": "a8f97afebe54a11c",
         "type": "tabs",
         "children": [
           {
-            "id": "0752c444d27de244",
+            "id": "5d7c275ed0117c4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Logbook/2024-02-05.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -54,14 +58,6 @@
             }
           },
           {
-            "id": "6112d0ef20de4278",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "f781742c13aee071",
             "type": "leaf",
             "state": {
@@ -89,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logbook/2024-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logbook/2024-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logbook/2024-02-05.md"
+              }
             }
           },
           {
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,27 +155,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab4617530383c65",
+  "active": "5d7c275ed0117c4f",
   "lastOpenFiles": [
+    "Logbook/2024-02-05.md",
+    "README.md",
+    "Программирование/Linux/CLI-инструменты.md",
+    "Logbook",
+    "Wiki",
+    "GTD",
+    "Программирование/API/Лучшие практики построения API.md",
+    "Программирование/API/Параметризация маршрутов.md",
+    "Программирование/API/API.md",
+    "Программирование/API/GraphQL.md",
+    "Программирование/API/REST.md",
+    "Программирование/API/REST vs GraphQL.md",
+    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+    "Программирование/Frontend/Tools/Всякое полезное.md",
+    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
+    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
     "Untitled.canvas",
     "2023-10-19.md",
     "Программирование/Frontend/Languages/JavaScript/Untitled.md",
-    "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
-    "Программирование/API/REST.md",
-    "Программирование/API/REST vs GraphQL.md",
-    "Программирование/API/GraphQL.md",
-    "Программирование/API/API.md",
-    "Программирование/API/Параметризация маршрутов.md",
-    "Программирование/API/Лучшие практики построения API.md",
     "Программирование/API/Версионирование.md",
     "Программирование/Общее/Методы HTTP.md",
     "Программирование/Общее/Типы регистров.md",
-    "Программирование/Frontend/Tools/Всякое полезное.md",
-    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
-    "Программирование/Linux/CLI-инструменты.md",
-    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
     "Программирование/Frontend/Tools/Без названия.canvas",
-    "README.md",
     "2022-08-10.md",
     "Новая папка/new note.md"
   ]
