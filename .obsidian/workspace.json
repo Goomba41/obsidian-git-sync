@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7fc718a1d49068a",
+        "id": "63bdf1a491afd4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9c1ef148f9681e",
+            "id": "0752c444d27de244",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,23 +156,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa9c1ef148f9681e",
+  "active": "0752c444d27de244",
   "lastOpenFiles": [
-    "Программирование/Linux/CLI-инструменты.md",
-    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
-    "Программирование/Frontend/Tools/Всякое полезное.md",
-    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
-    "Программирование/Frontend/Tools/Без названия.canvas",
+    "Untitled.canvas",
+    "2023-10-19.md",
+    "Программирование/Frontend/Languages/JavaScript/Untitled.md",
     "Программирование/Frontend/Languages/JavaScript/Event Loop (Событийный цикл).md",
-    "Программирование/API/REST vs GraphQL.md",
     "Программирование/API/REST.md",
+    "Программирование/API/REST vs GraphQL.md",
     "Программирование/API/GraphQL.md",
     "Программирование/API/API.md",
     "Программирование/API/Параметризация маршрутов.md",
     "Программирование/API/Лучшие практики построения API.md",
     "Программирование/API/Версионирование.md",
-    "Программирование/Общее/Типы регистров.md",
     "Программирование/Общее/Методы HTTP.md",
+    "Программирование/Общее/Типы регистров.md",
+    "Программирование/Frontend/Tools/Всякое полезное.md",
+    "Программирование/Frontend/Tools/Библиотеки HTML-CSS компонентов.md",
+    "Программирование/Linux/CLI-инструменты.md",
+    "Программирование/Frontend/Tools/Иконочные библиотеки.md",
+    "Программирование/Frontend/Tools/Без названия.canvas",
     "README.md",
     "2022-08-10.md",
     "Новая папка/new note.md"
