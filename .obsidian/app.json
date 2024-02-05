@@ -5,8 +5,9 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": null,
-  "promptDelete": false,
+  "promptDelete": true,
   "spellcheck": true,
   "showLineNumber": true,
-  "livePreview": false
+  "livePreview": false,
+  "trashOption": "local"
 }

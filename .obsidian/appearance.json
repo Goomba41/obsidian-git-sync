@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Dracula Official",
-  "accentColor": ""
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Monaspace Neon"
 }
