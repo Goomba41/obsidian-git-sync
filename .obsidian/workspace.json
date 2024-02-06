@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
                 "mode": "preview",
                 "source": true
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#переработать",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md"
+                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md"
               }
             }
           },
@@ -177,10 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d7c275ed0117c4f",
+  "active": "4c1609ea5dff0ee2",
   "lastOpenFiles": [
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+    "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
     "Wiki/Программирование/API/Лучшие практики построения API.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
@@ -216,7 +218,6 @@
     "2023-10-19.md",
     "Программирование/Frontend/Languages/JavaScript/Untitled.md",
     "Программирование/Frontend/Tools/Без названия.canvas",
-    "2022-08-10.md",
-    "Новая папка/new note.md"
+    "2022-08-10.md"
   ]
 }
