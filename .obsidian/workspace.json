@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md"
               }
             }
           },
@@ -179,13 +179,17 @@
   },
   "active": "5d7c275ed0117c4f",
   "lastOpenFiles": [
+    "README.md",
+    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
+    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты",
+    "Wiki/Программирование/Фронт/Языки/TypeScript",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
+    "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
+    "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Templates",
     "Untitled.canvas",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
-    "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
-    "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Wiki/Программирование/API/Лучшие практики построения API.md",
     "REST.md",
     "Logbook/2024-02-05.md",
@@ -199,7 +203,6 @@
     "Разобрать дерьмо/Программирование/Общее/Типы регистров в программировании.md",
     "Разобрать дерьмо/Программирование/Методы HTTP.md",
     "Разобрать дерьмо",
-    "README.md",
     "Logbook",
     "Wiki",
     "GTD",

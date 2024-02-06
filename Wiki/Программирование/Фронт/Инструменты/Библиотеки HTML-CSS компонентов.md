@@ -3,6 +3,8 @@
 
 ## Под Tailwind CSS
 
-1. https://postsrc.com/components
-2. https://sailboatui.com/docs/components
-3. https://preline.co/index.html
+1. [PostSrc](https://postsrc.com)
+2. [Sailboat UI](https://sailboatui.com)
+3. [Preline UI](https://preline.co/index.html)
+4. [Tail-kit](https://www.tailwind-kit.com)
+5. [Flowbite](https://flowbite.com)

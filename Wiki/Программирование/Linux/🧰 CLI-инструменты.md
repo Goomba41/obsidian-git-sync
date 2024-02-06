@@ -1,5 +1,4 @@
 #cli #linux #tools #instruments #os/linux #os #terminal
-#команднаястрока #терминал #линукс #инструменты #ос #ос/линукс
 
 1. **[exa](https://github.com/ogham/exa)** - продвинутый ls
 2. **[zoxide](https://github.com/ajeetdsouza/zoxide)** - продвинутый cd
