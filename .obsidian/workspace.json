@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md"
+                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md"
               }
             }
           },
@@ -177,12 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a733f716269edf4e",
+  "active": "5d7c275ed0117c4f",
   "lastOpenFiles": [
+    "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "Wiki/Программирование/API/Лучшие практики построения API.md",
     "Pasted image 20240206111028.png",
     "Logbook/2024-02-06.md",
-    "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
     "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
