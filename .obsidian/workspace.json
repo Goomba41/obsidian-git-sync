@@ -12,8 +12,12 @@
             "id": "5d7c275ed0117c4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
             },
             "group": "4839b9ebb4095b50"
           }
@@ -30,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -171,12 +179,14 @@
   },
   "active": "5d7c275ed0117c4f",
   "lastOpenFiles": [
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+    "Templates",
+    "Untitled.canvas",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
     "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
     "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Wiki/Программирование/API/Лучшие практики построения API.md",
-    "Wiki/Программирование/Linux/CLI-инструменты.md",
     "REST.md",
     "Logbook/2024-02-05.md",
     "Разобрать дерьмо/Программирование/API/REST vs GraphQL.md",
@@ -193,7 +203,6 @@
     "Logbook",
     "Wiki",
     "GTD",
-    "Untitled.canvas",
     "2023-10-19.md",
     "Программирование/Frontend/Languages/JavaScript/Untitled.md",
     "Программирование/Frontend/Tools/Без названия.canvas",
