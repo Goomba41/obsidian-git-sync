@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
+                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
+                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
+                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
+                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md"
+                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md"
               }
             }
           },
@@ -179,14 +179,20 @@
   },
   "active": "5d7c275ed0117c4f",
   "lastOpenFiles": [
-    "README.md",
-    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
-    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты",
-    "Wiki/Программирование/Фронт/Языки/TypeScript",
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+    "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+    "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
+    "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
+    "Wiki/Программирование/Фронт/Фрэймворки/Angular",
+    "Wiki/Программирование/Фронт/Фрэймворки/Vue",
+    "Wiki/Программирование/Фронт/Фрэймворки",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
-    "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
+    "README.md",
+    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты",
+    "Wiki/Программирование/Фронт/Языки/TypeScript",
     "Templates",
     "Untitled.canvas",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
