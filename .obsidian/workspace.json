@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logbook/2024-02-06.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logbook/2024-02-06.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Logbook/2024-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Logbook/2024-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Logbook/2024-02-06.md"
               }
             }
           },
@@ -184,8 +184,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a1a542f3eb8d257",
+  "active": "43f8bb7bed8d7302",
   "lastOpenFiles": [
+    "README.md",
     "Logbook/2024-02-06.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__",
     "consistency-report.md",
@@ -205,7 +206,6 @@
     "Wiki/Программирование/Фронт/Фрэймворки",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
-    "README.md",
     "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты",
     "Wiki/Программирование/Фронт/Языки/TypeScript",
     "Templates",
