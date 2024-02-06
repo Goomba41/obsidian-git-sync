@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                 "mode": "preview",
                 "source": true
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#переработать",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Вставка изображений в консоль.md"
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md"
               }
             }
           },
@@ -178,13 +177,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c1609ea5dff0ee2",
+  "active": "a733f716269edf4e",
   "lastOpenFiles": [
-    "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+    "Wiki/Программирование/API/Лучшие практики построения API.md",
+    "Pasted image 20240206111028.png",
+    "Logbook/2024-02-06.md",
+    "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
+    "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
-    "Wiki/Программирование/API/Лучшие практики построения API.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
     "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
@@ -215,9 +217,6 @@
     "Logbook",
     "Wiki",
     "GTD",
-    "2023-10-19.md",
-    "Программирование/Frontend/Languages/JavaScript/Untitled.md",
-    "Программирование/Frontend/Tools/Без названия.canvas",
-    "2022-08-10.md"
+    "Программирование/Frontend/Tools/Без названия.canvas"
   ]
 }
