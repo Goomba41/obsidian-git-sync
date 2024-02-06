@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
+                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
+                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
+                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
+                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md"
+                "file": "Wiki/Программирование/Фронт/Инструменты/Линтинг.md"
               }
             }
           },
@@ -179,9 +179,11 @@
   },
   "active": "5d7c275ed0117c4f",
   "lastOpenFiles": [
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
-    "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+    "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
+    "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
+    "Wiki/Программирование/API/Лучшие практики построения API.md",
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
     "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular",
@@ -196,7 +198,6 @@
     "Templates",
     "Untitled.canvas",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
-    "Wiki/Программирование/API/Лучшие практики построения API.md",
     "REST.md",
     "Logbook/2024-02-05.md",
     "Разобрать дерьмо/Программирование/API/REST vs GraphQL.md",
