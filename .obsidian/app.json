@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "__attachments__",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
@@ -9,5 +9,6 @@
   "spellcheck": true,
   "showLineNumber": true,
   "livePreview": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileFolderPath": "Attachments"
 }

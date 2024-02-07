@@ -1,0 +1,1 @@
+Переписать [статью](https://habr.com/ru/articles/743628/)

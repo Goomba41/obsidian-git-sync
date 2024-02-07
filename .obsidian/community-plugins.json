@@ -9,5 +9,8 @@
   "obsidian-admonition",
   "obsidian-emoji-toolbar",
   "drawio-obsidian",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "obsidian-checklist-plugin",
+  "calendar",
+  "obsidian-day-planner"
 ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook/2024-02-07.md",
+                "file": "GTD/GTD и организация папки.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook/2024-02-07.md",
+                "file": "GTD/GTD и организация папки.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-07.md",
+                "file": "GTD/GTD и организация папки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-07.md",
+                "file": "GTD/GTD и организация папки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-07.md"
+                "file": "GTD/GTD и организация папки.md"
               }
             }
           },
@@ -164,9 +164,25 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "39bb40081f38fc96",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "50f615a45a37d6ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,10 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43f8bb7bed8d7302",
+  "active": "39bb40081f38fc96",
   "lastOpenFiles": [
-    "Logbook/2024-02-06.md",
     "Logbook/2024-02-07.md",
+    "GTD/GTD и организация папки.md",
+    "Logbook/2024-02-06.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "README.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__",
@@ -221,7 +238,6 @@
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
     "Разобрать дерьмо/Программирование/API/API.md",
     "Разобрать дерьмо/Программирование/API/Версионирование.md",
-    "Разобрать дерьмо/Программирование/Общее/Типы регистров в программировании.md",
     "Разобрать дерьмо",
     "Logbook",
     "Wiki",
