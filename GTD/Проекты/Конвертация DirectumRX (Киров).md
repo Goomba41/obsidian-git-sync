@@ -1,0 +1,31 @@
+```dataview
+TABLE without id file.outlinks AS "Исходящие", file.inlinks AS "Обратные" WHERE file.name = this.file.name
+```
+```dataview
+TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Создана", dateformat(this.file.mtime, "dd.MM.yyyy HH:mm") as "Обновлена" WHERE file.name = this.file.name
+```
+
+#проект
+- [ ] Завершение «Конвертация DirectumRX (Киров)»
+
+# Список задач
+> [!danger] Незавершенные
+> ```dataview
+> TASK
+> FROM [[]]
+> WHERE !completed
+> SORT file.ctime desc
+> ```
+
+> [!check] Завершенные 
+> ```dataview
+> TASK
+> FROM [[]]
+> WHERE completed
+> SORT file.ctime desc
+> LIMIT 30
+>```
+
+# Связи
+
+# Описание

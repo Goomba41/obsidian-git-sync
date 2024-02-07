@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "GTD/Напоминания/Тестовое напоминание.md": [
+      {
+        "title": "Завершение «Тестовое напоминание »",
+        "time": "2024-02-07 15:55",
+        "rowNumber": 8
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

@@ -1,5 +1,3 @@
-#cli #linux #tools #instruments #os/linux #os #terminal
-
 1. **[exa](https://github.com/ogham/exa)** - продвинутый ls
 2. **[zoxide](https://github.com/ajeetdsouza/zoxide)** - продвинутый cd
 3. **[thefuck](https://github.com/nvbn/thefuck)** - исправление команд.

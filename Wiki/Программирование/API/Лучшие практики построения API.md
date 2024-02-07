@@ -1,5 +1,4 @@
 # Лучшие практики построения API по методологии REST
-#programming #api/bestpractice #api/design #backend
 
 ## Правила и советы
 

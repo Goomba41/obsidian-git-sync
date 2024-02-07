@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD/GTD и организация папки.md",
+                "file": "GTD/Напоминания/Тестовое напоминание.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD/GTD и организация папки.md",
+                "file": "GTD/Напоминания/Тестовое напоминание.md",
                 "mode": "preview",
                 "source": true
               }
@@ -50,6 +50,37 @@
     "children": [
       {
         "id": "c6c6f06350eddb85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f781742c13aee071",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "59f1b54518f5e116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1834a3651345a4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6aef6abe42b3c220",
         "type": "tabs",
         "children": [
           {
@@ -76,14 +107,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f781742c13aee071",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -96,80 +119,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b895cca86fc2ce40",
+        "id": "857bf2af56fe9106",
         "type": "tabs",
+        "dimension": 47.93956043956044,
         "children": [
-          {
-            "id": "1e5707b2fdb64064",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "GTD/GTD и организация папки.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "07cb4394d893ae1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "GTD/GTD и организация папки.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f1834a3651345a4c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "1ab4617530383c65",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "GTD/GTD и организация папки.md"
-              }
-            }
-          },
-          {
-            "id": "b29d5bee9ad34a61",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "195191279932b6fc",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
           {
             "id": "39bb40081f38fc96",
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "01c4f3e30ecd57b4",
+        "type": "tabs",
+        "dimension": 52.06043956043956,
+        "children": [
+          {
+            "id": "195191279932b6fc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           },
@@ -180,13 +153,20 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4f2d49c2ef7eba91",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +177,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "39bb40081f38fc96",
+  "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "GTD/Задачи/Тестовая задача.md",
+    "GTD/Проекты/Конвертация DirectumRX (Киров).md",
+    "GTD/Проекты/КСО.md",
+    "GTD/Напоминания/Тестовое напоминание.md",
+    "GTD/Проекты/РИАС.md",
+    "Templates/Проект.md",
+    "Templates/Справка.md",
+    "Templates/Напоминание (встречи, собрания и пр.).md",
+    "Templates/Задача.md",
+    "Templates/Входящее.md",
     "Logbook/2024-02-07.md",
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+    "Wiki/Программирование/API/Лучшие практики построения API.md",
+    "GTD/Справки",
+    "GTD/Проекты",
+    "GTD/Напоминания",
+    "GTD/Входящие",
+    "GTD/Задачи",
+    "GTD/Untitled.md",
     "GTD/GTD и организация папки.md",
     "Logbook/2024-02-06.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
@@ -210,37 +209,19 @@
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__",
     "consistency-report.md",
     "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
-    "Wiki/Программирование/API/Лучшие практики построения API.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
     "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
     "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
     "Wiki/Программирование/Фронт/Инструменты/Иконочные библиотеки.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue",
     "Wiki/Программирование/Фронт/Фрэймворки",
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
-    "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
     "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты",
-    "Wiki/Программирование/Фронт/Языки/TypeScript",
-    "Templates",
     "Untitled.canvas",
-    "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
-    "REST.md",
-    "Logbook/2024-02-05.md",
-    "Разобрать дерьмо/Программирование/API/REST vs GraphQL.md",
-    "Разобрать дерьмо/Программирование/API/REST.md",
-    "Разобрать дерьмо/Программирование/API/GraphQL.md",
-    "Разобрать дерьмо/Программирование/API/Параметризация маршрутов.md",
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
-    "Разобрать дерьмо/Программирование/API/API.md",
-    "Разобрать дерьмо/Программирование/API/Версионирование.md",
-    "Разобрать дерьмо",
-    "Logbook",
-    "Wiki",
     "Программирование/Frontend/Tools/Без названия.canvas"
   ]
 }
