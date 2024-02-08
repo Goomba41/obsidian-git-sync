@@ -3,7 +3,7 @@
   "syntaxHighlight": false,
   "copyButton": true,
   "version": "10.1.2",
-  "autoCollapse": false,
+  "autoCollapse": true,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
