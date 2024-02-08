@@ -4,42 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "2ed18ced4bd91e1d",
-        "type": "tabs",
+        "id": "d188d385160fdbb4",
+        "type": "split",
         "children": [
           {
-            "id": "43f8bb7bed8d7302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logbook/2024-02-08.md",
-                "mode": "source",
-                "source": true
+            "id": "25a3573ecf81cdc4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a1a542f3eb8d257",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logbook/2024-02-08.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "0e3489e8152b4ed6"
               }
-            },
-            "group": "4686aaa0548bfe8c"
-          }
-        ]
-      },
-      {
-        "id": "25a3573ecf81cdc4",
-        "type": "tabs",
-        "children": [
+            ]
+          },
           {
-            "id": "1a1a542f3eb8d257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logbook/2024-02-08.md",
-                "mode": "preview",
-                "source": true
+            "id": "73820d84e69764a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1ad6216420a1b6fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logbook/2024-02-08.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "group": "0e3489e8152b4ed6"
               }
-            },
-            "group": "4686aaa0548bfe8c"
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -99,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#справка",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,18 +189,26 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "43f8bb7bed8d7302",
+  "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "Logbook/2024-02-07.md",
+    "GTD/Справки/Персоны/Илья Малько.md",
+    "GTD/Персоны.md",
+    "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
+    "Templates/Персона.md",
+    "Templates/Проект.md",
+    "GTD/Справки/Персоны",
+    "Logbook/2024-02-05.md",
+    "GTD/Справки/Персоны",
+    "Templates/Справка.md",
+    "GTD/GTD и организация папки.md",
     "Logbook/2024-02-08.md",
+    "Logbook/2024-02-07.md",
     "GTD/Задачи/Что-то там с сертификатами.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Тестовая задача.md",
     "GTD/Проекты/КСО.md",
     "GTD/Напоминания/Тестовое напоминание.md",
     "GTD/Проекты/РИАС.md",
-    "Templates/Проект.md",
-    "Templates/Справка.md",
     "Templates/Напоминание (встречи, собрания и пр.).md",
     "Templates/Задача.md",
     "Templates/Входящее.md",
@@ -204,23 +219,14 @@
     "GTD/Напоминания",
     "GTD/Входящие",
     "GTD/Задачи",
-    "GTD/Untitled.md",
-    "GTD/GTD и организация папки.md",
     "Logbook/2024-02-06.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "README.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__",
     "consistency-report.md",
-    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
-    "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
-    "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
-    "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue",
-    "Wiki/Программирование/Фронт/Фрэймворки",
-    "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты",
     "Untitled.canvas",
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
     "Программирование/Frontend/Tools/Без названия.canvas"
