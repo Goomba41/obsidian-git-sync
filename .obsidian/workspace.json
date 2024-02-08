@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD/Задачи/Что-то там с сертификатами.md",
+                "file": "Logbook/2024-02-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD/Задачи/Что-то там с сертификатами.md",
+                "file": "Logbook/2024-02-08.md",
                 "mode": "preview",
                 "source": true
               }
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,9 +182,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a1a542f3eb8d257",
+  "active": "43f8bb7bed8d7302",
   "lastOpenFiles": [
     "Logbook/2024-02-07.md",
+    "Logbook/2024-02-08.md",
     "GTD/Задачи/Что-то там с сертификатами.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Тестовая задача.md",
@@ -215,7 +217,6 @@
     "Wiki/Программирование/Фронт/Инструменты/Линтинг.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
-    "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue",
     "Wiki/Программирование/Фронт/Фрэймворки",
