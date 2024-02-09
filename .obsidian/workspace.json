@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-08.md",
+                    "file": "Logbook/2024-02-09.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-08.md",
+                    "file": "Logbook/2024-02-09.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -193,8 +193,10 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "GTD/Справки/Варианты улучшения GTD-Obsidian.md",
+    "GTD/Задачи/Что-то там с сертификатами.md",
+    "Logbook/2024-02-09.md",
     "Logbook/2024-02-08.md",
+    "GTD/Справки/Варианты улучшения GTD-Obsidian.md",
     "GTD/Справки/Персоны/Илья Малько.md",
     "GTD/Персоны.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
@@ -206,7 +208,6 @@
     "Templates/Справка.md",
     "GTD/GTD и организация папки.md",
     "Logbook/2024-02-07.md",
-    "GTD/Задачи/Что-то там с сертификатами.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Тестовая задача.md",
     "GTD/Проекты/КСО.md",
@@ -226,7 +227,6 @@
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "README.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__",
-    "consistency-report.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
     "Wiki/Программирование/Фронт/Фрэймворки/Angular",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue",
