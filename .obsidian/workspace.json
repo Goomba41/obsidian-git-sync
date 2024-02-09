@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-09.md",
+                    "file": "GTD/Задачи/Что-то там с сертификатами.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-09.md",
+                    "file": "GTD/Задачи/Что-то там с сертификатами.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -191,13 +191,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a1a542f3eb8d257",
+  "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
-    "Logbook/2024-02-08.md",
-    "Logbook/2024-02-09.md",
+    "GTD/Справки/Персоны/Илья Николаевич Малько.md",
     "GTD/Задачи/Что-то там с сертификатами.md",
+    "Logbook/2024-02-09.md",
+    "Logbook/2024-02-08.md",
     "GTD/Справки/Варианты улучшения GTD-Obsidian.md",
-    "GTD/Справки/Персоны/Илья Малько.md",
     "GTD/Персоны.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "Templates/Персона.md",
