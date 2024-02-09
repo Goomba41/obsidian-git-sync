@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Что-то там с сертификатами.md",
+                    "file": "Logbook/2024-02-09.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Что-то там с сертификатами.md",
+                    "file": "Logbook/2024-02-09.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -139,6 +139,45 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "fd510a7be35172a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logbook/2024-02-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "581b2a6a324f967e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logbook/2024-02-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93130e66cd73d509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logbook/2024-02-09.md"
+              }
+            }
           }
         ]
       },
@@ -191,23 +230,24 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1ad6216420a1b6fd",
+  "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "GTD/Справки/Персоны/Илья Николаевич Малько.md",
-    "GTD/Задачи/Что-то там с сертификатами.md",
     "Logbook/2024-02-09.md",
     "Logbook/2024-02-08.md",
+    "Logbook/2024-02-07.md",
+    "Logbook/2024-02-06.md",
+    "Logbook/2024-02-05.md",
+    "GTD/Задачи/Что-то там с сертификатами.md",
+    "GTD/Справки/Персоны/Илья Николаевич Малько.md",
     "GTD/Справки/Варианты улучшения GTD-Obsidian.md",
     "GTD/Персоны.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "Templates/Персона.md",
     "Templates/Проект.md",
     "GTD/Справки/Персоны",
-    "Logbook/2024-02-05.md",
     "GTD/Справки/Персоны",
     "Templates/Справка.md",
     "GTD/GTD и организация папки.md",
-    "Logbook/2024-02-07.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Тестовая задача.md",
     "GTD/Проекты/КСО.md",
@@ -223,7 +263,6 @@
     "GTD/Напоминания",
     "GTD/Входящие",
     "GTD/Задачи",
-    "Logbook/2024-02-06.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "README.md",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__",
