@@ -26,6 +26,14 @@
       "date": "2024-02-16T07:21:00.000Z",
       "firstSend": false,
       "secondSend": true
+    },
+    {
+      "id": 1707735960000,
+      "text": "Пойти на обед  — 2024-02-12 14:06",
+      "check": false,
+      "date": "2024-02-12T11:06:00.000Z",
+      "firstSend": true,
+      "secondSend": true
     }
   ],
   "firstNotice": 1,
