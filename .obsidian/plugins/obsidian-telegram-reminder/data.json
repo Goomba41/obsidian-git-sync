@@ -1,0 +1,17 @@
+{
+  "token": "6753404642:AAG-sD9aB4KcMv3UI2wUvat3Lbq_jT3cuxE",
+  "chatId": 487309854,
+  "parseTime": 1,
+  "messagesData": [
+    {
+      "id": 1707727380000,
+      "text": "Task 2  — 2024-02-12 11:43",
+      "check": true,
+      "date": "2024-02-12T08:43:00.000Z",
+      "firstSend": false,
+      "secondSend": false
+    }
+  ],
+  "firstNotice": 1,
+  "secondNotice": 1
+}

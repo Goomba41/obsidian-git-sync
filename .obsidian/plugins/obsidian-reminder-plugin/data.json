@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "Logbook/2024-02-12.md": [
+      {
+        "title": "Task 2",
+        "time": "2024-02-12 11:43",
+        "rowNumber": 2
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

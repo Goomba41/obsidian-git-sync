@@ -12,5 +12,6 @@
   "obsidian-reminder-plugin",
   "obsidian-checklist-plugin",
   "calendar",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "obsidian-telegram-reminder"
 ]
