@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                    "file": "Logbook/2024-02-12.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                    "file": "Logbook/2024-02-12.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Logbook/2024-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Logbook/2024-02-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md"
+                "file": "Logbook/2024-02-12.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   },
   "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
+    "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-12.md",
     "GTD/Напоминания/Untitled.md",
@@ -259,7 +260,6 @@
     "Templates/Напоминание (встречи, собрания и пр.).md",
     "Templates/Задача.md",
     "Templates/Входящее.md",
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Справки",
     "GTD/Проекты",
     "GTD/Напоминания",
