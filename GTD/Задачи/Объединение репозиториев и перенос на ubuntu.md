@@ -15,7 +15,7 @@ TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Созда�
 
 - [x] Объединить код
 - [x] Разветвить
-- [ ] Переместить issues
+- [x] Переместить issues
 - [ ] Переделать ci/cd
 - [ ] Заархивировать репозитории
 - [ ] Переписать нормальный README
