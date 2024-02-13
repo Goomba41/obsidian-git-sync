@@ -42,6 +42,14 @@
       "date": "2024-02-13T10:20:00.000Z",
       "firstSend": true,
       "secondSend": true
+    },
+    {
+      "id": 1707900600000,
+      "text": "Ждем готовности запроса PreparedBy  — 2024-02-14 11:50",
+      "check": false,
+      "date": "2024-02-14T08:50:00.000Z",
+      "firstSend": false,
+      "secondSend": true
     }
   ],
   "firstNotice": 1,

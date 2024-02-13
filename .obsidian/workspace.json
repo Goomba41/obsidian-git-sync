@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-13.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-13.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-13.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-13.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-13.md"
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
               }
             }
           }
