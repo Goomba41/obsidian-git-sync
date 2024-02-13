@@ -5,7 +5,7 @@ TABLE without id file.outlinks AS "Исходящие", file.inlinks AS "Обр�
 TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Создана", dateformat(this.file.mtime, "dd.MM.yyyy HH:mm") as "Обновлена" WHERE file.name = this.file.name
 ```
 
-#задача/ожидание %% сейчас | потом | ожидание | однажды %%
+#задача/сейчас %% сейчас | потом | ожидание | однажды %%
 - [ ] Завершение «Объединение репозиториев и перенос на ubuntu»
 
 # Ссылки
@@ -16,6 +16,7 @@ TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Созда�
 - [x] Объединить код
 - [x] Разветвить
 - [ ] Переместить issues
+- [ ] Переделать ci/cd
 - [ ] Переписать нормальный README
 - [ ] Перенос сборки репозитория (@2024-02-16 10:21)
 - [ ] Билд на разные поддомены?
