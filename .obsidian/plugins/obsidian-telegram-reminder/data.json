@@ -40,7 +40,7 @@
       "text": "Ждем готовности запроса CNotes  — 2024-02-13 13:20",
       "check": false,
       "date": "2024-02-13T10:20:00.000Z",
-      "firstSend": false,
+      "firstSend": true,
       "secondSend": true
     }
   ],
