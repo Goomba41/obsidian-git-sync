@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                    "file": "Logbook/2024-02-14.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                    "file": "Logbook/2024-02-14.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                "file": "Logbook/2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                "file": "Logbook/2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
+                "file": "Logbook/2024-02-14.md"
               }
             }
           }
@@ -232,8 +232,9 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "Logbook/2024-02-13.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+    "Logbook/2024-02-14.md",
+    "Logbook/2024-02-13.md",
     "GTD/Задачи/Добавить поле в НПАРКК.md",
     "Logbook/2024-02-12.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
@@ -259,7 +260,6 @@
     "GTD/Проекты/КСО.md",
     "GTD/Напоминания/Тестовое напоминание.md",
     "GTD/Проекты/РИАС.md",
-    "Templates/Напоминание (встречи, собрания и пр.).md",
     "GTD/Справки",
     "GTD/Проекты",
     "GTD/Напоминания",
