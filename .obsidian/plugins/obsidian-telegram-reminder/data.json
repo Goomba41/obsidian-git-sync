@@ -48,7 +48,7 @@
       "text": "Ждем готовности запроса PreparedBy  — 2024-02-14 11:50",
       "check": false,
       "date": "2024-02-14T08:50:00.000Z",
-      "firstSend": false,
+      "firstSend": true,
       "secondSend": true
     }
   ],
