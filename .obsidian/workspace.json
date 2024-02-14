@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-14.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-14.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-14.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-14.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-14.md"
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
               }
             }
           }
@@ -232,10 +232,12 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
-    "Logbook/2024-02-14.md",
-    "Logbook/2024-02-13.md",
+    "GTD/Задачи/Что-то там с сертификатами.md",
     "GTD/Задачи/Добавить поле в НПАРКК.md",
+    "GTD/Проекты/Конвертация DirectumRX (Киров).md",
+    "Logbook/2024-02-14.md",
+    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+    "Logbook/2024-02-13.md",
     "Logbook/2024-02-12.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Напоминания/Untitled.md",
@@ -244,7 +246,6 @@
     "Logbook/2024-02-07.md",
     "Logbook/2024-02-06.md",
     "Logbook/2024-02-05.md",
-    "GTD/Задачи/Что-то там с сертификатами.md",
     "GTD/Справки/Персоны/Илья Николаевич Малько.md",
     "GTD/Справки/Варианты улучшения GTD-Obsidian.md",
     "GTD/Персоны.md",
@@ -255,7 +256,6 @@
     "GTD/Справки/Персоны",
     "Templates/Справка.md",
     "GTD/GTD и организация папки.md",
-    "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Тестовая задача.md",
     "GTD/Проекты/КСО.md",
     "GTD/Напоминания/Тестовое напоминание.md",
