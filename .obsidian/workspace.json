@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                    "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                    "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
+                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md"
               }
             }
           }
@@ -232,8 +232,9 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "GTD/GTD и организация папки.md",
+    "GTD/Справки/Ссылки по работе openstreetmap.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+    "GTD/GTD и организация папки.md",
     "Logbook/2024-02-15.md",
     "GTD/Задачи/Взлом SpreadJS.md",
     "Logbook/2024-02-14.md",
@@ -259,7 +260,6 @@
     "GTD/Справки/Персоны",
     "Templates/Справка.md",
     "GTD/Задачи/Тестовая задача.md",
-    "GTD/Проекты/КСО.md",
     "GTD/Справки",
     "GTD/Проекты",
     "GTD/Напоминания",
