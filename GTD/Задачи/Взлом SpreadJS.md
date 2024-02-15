@@ -1,0 +1,16 @@
+```dataview
+TABLE without id file.outlinks AS "Исходящие", file.inlinks AS "Обратные" WHERE file.name = this.file.name
+```
+```dataview
+TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Создана", dateformat(this.file.mtime, "dd.MM.yyyy HH:mm") as "Обновлена" WHERE file.name = this.file.name
+```
+
+#задача/потом %% сейчас | потом | ожидание | однажды %%
+- [ ] Завершение «Взлом SpreadJS»
+
+# Ссылки
+[РИАС](../Проекты/РИАС.md)
+
+# Описание
+
+Нужно каким-то образом взломать лицензирование SpreadJS
