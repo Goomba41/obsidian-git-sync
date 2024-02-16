@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md",
+                "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/GIT/Организация рабочего потока.md"
+                "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md"
               }
             }
           }
@@ -232,6 +232,7 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Справки/Ссылки по работе openstreetmap.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "GTD/GTD и организация папки.md",
@@ -243,7 +244,6 @@
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "Logbook/2024-02-13.md",
     "Logbook/2024-02-12.md",
-    "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Напоминания/Untitled.md",
     "Logbook/2024-02-09.md",
     "Logbook/2024-02-08.md",
