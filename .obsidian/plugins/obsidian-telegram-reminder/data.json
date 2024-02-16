@@ -58,6 +58,14 @@
       "date": "2024-03-15T07:00:00.000Z",
       "firstSend": false,
       "secondSend": true
+    },
+    {
+      "id": 1708239600000,
+      "text": "Удалить старую машину  — 2024-02-18 10:00",
+      "check": false,
+      "date": "2024-02-18T07:00:00.000Z",
+      "firstSend": false,
+      "secondSend": true
     }
   ],
   "firstNotice": 1,
