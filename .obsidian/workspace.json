@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md"
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
               }
             }
           }
@@ -233,12 +233,15 @@
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
     "Logbook/2024-02-16.md",
+    "Logbook/2024-02-15.md",
+    "GTD/Задачи/Объединение репозиториев.md",
+    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+    "GTD/Проекты/РИАС.md",
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Справки/Ссылки по работе openstreetmap.md",
-    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "GTD/GTD и организация папки.md",
-    "Logbook/2024-02-15.md",
     "GTD/Задачи/Взлом SpreadJS.md",
     "Logbook/2024-02-14.md",
     "GTD/Задачи/Добавить поле в НПАРКК.md",
@@ -255,9 +258,6 @@
     "GTD/Справки/Персоны/Илья Николаевич Малько.md",
     "GTD/Справки/Варианты улучшения GTD-Obsidian.md",
     "GTD/Персоны.md",
-    "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
-    "Templates/Персона.md",
-    "Templates/Проект.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
