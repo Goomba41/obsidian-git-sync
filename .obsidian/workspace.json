@@ -10,7 +10,7 @@
           {
             "id": "25a3573ecf81cdc4",
             "type": "tabs",
-            "dimension": 57.44274809160305,
+            "dimension": 57.44274809160306,
             "children": [
               {
                 "id": "1a1a542f3eb8d257",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+                    "file": "Logbook/2024-02-16.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+                    "file": "Logbook/2024-02-16.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+                "file": "Logbook/2024-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+                "file": "Logbook/2024-02-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md"
+                "file": "Logbook/2024-02-16.md"
               }
             }
           }
@@ -232,6 +232,8 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+    "Logbook/2024-02-16.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Справки/Ссылки по работе openstreetmap.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
@@ -258,8 +260,6 @@
     "Templates/Проект.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
-    "Templates/Справка.md",
-    "GTD/Задачи/Тестовая задача.md",
     "GTD/Справки",
     "GTD/Проекты",
     "GTD/Напоминания",
