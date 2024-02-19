@@ -10,7 +10,7 @@
           {
             "id": "25a3573ecf81cdc4",
             "type": "tabs",
-            "dimension": 57.44274809160306,
+            "dimension": 57.442748091603065,
             "children": [
               {
                 "id": "1a1a542f3eb8d257",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-16.md",
+                    "file": "Logbook/2024-02-19.md",
                     "mode": "source",
                     "source": true
                   }
@@ -30,7 +30,7 @@
           {
             "id": "73820d84e69764a5",
             "type": "tabs",
-            "dimension": 42.55725190839694,
+            "dimension": 42.557251908396935,
             "children": [
               {
                 "id": "1ad6216420a1b6fd",
@@ -38,8 +38,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-16.md",
-                    "mode": "preview",
+                    "file": "Logbook/2024-02-19.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -130,7 +130,7 @@
       {
         "id": "857bf2af56fe9106",
         "type": "tabs",
-        "dimension": 47.93956043956044,
+        "dimension": 64.8854961832061,
         "children": [
           {
             "id": "39bb40081f38fc96",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-16.md",
+                "file": "Logbook/2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-16.md",
+                "file": "Logbook/2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-16.md"
+                "file": "Logbook/2024-02-19.md"
               }
             }
           }
@@ -184,7 +184,7 @@
       {
         "id": "01c4f3e30ecd57b4",
         "type": "tabs",
-        "dimension": 52.06043956043956,
+        "dimension": 35.11450381679389,
         "children": [
           {
             "id": "195191279932b6fc",
@@ -230,16 +230,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a1a542f3eb8d257",
+  "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
-    "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+    "Logbook/2024-02-19.md",
+    "Logbook/2024-02-16.md",
+    "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "GTD/Задачи/Опять конвертация.md",
     "Pasted image 20240216154327.png",
     "Pasted image 20240216154132.png",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "GTD/Задачи/Объединение репозиториев.md",
-    "Logbook/2024-02-16.md",
     "Logbook/2024-02-15.md",
     "GTD/Проекты/РИАС.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
