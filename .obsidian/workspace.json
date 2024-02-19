@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-02-19.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-02-19.md",
                     "mode": "source",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "Logbook/2024-02-19.md"
               }
             }
           }
@@ -232,10 +232,10 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "Logbook/2024-02-16.md",
     "Logbook/2024-02-19.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
-    "Logbook/2024-02-16.md",
     "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "GTD/Задачи/Опять конвертация.md",
     "Pasted image 20240216154327.png",
