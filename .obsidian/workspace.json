@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-19.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-19.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-19.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-19.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-19.md"
+                "file": "GTD/Задачи/Окружение разработки.md"
               }
             }
           }
@@ -232,9 +232,9 @@
   },
   "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
+    "Logbook/2024-02-19.md",
     "Pasted image 20240219130245.png",
     "GTD/Задачи/Окружение разработки.md",
-    "Logbook/2024-02-19.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-16.md",
     "GTD/Задачи/Пофиксить критичные баги КСО.md",
