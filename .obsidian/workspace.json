@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                    "file": "Logbook/2024-02-20.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                    "file": "Logbook/2024-02-20.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                "file": "Logbook/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+                "file": "Logbook/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
+                "file": "Logbook/2024-02-20.md"
               }
             }
           }
@@ -230,18 +230,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1ad6216420a1b6fd",
+  "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
+    "GTD/Задачи/Объединение репозиториев.md",
+    "GTD/Задачи/Обновить CI.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "GTD/Справки/Персоны/Илья Николаевич Малько.md",
-    "GTD/Задачи/Обновить CI.md",
-    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-20.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Logbook/2024-02-19.md",
-    "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "Pasted image 20240219130245.png",
     "Logbook/2024-02-16.md",
