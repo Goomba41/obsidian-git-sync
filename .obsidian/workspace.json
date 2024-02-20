@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md"
               }
             }
           }
@@ -232,11 +232,11 @@
   },
   "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
+    "GTD/Задачи/Окружение разработки.md",
     "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "GTD/Справки/Персоны/Илья Николаевич Малько.md",
     "GTD/Задачи/Обновить CI.md",
-    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-20.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
