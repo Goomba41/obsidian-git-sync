@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md"
               }
             }
           }
@@ -230,13 +230,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1ad6216420a1b6fd",
+  "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "GTD/Задачи/Объединение репозиториев.md",
-    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
-    "GTD/Задачи/Пофиксить критичные баги КСО.md",
+    "Logbook/2024-02-20.md",
     "Logbook/2024-02-19.md",
+    "GTD/Задачи/Окружение разработки.md",
+    "GTD/Задачи/Объединение репозиториев.md",
+    "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "Pasted image 20240219130245.png",
     "Logbook/2024-02-16.md",
     "GTD/Задачи/Опять конвертация.md",

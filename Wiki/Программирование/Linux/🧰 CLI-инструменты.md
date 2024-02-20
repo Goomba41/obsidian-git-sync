@@ -1,4 +1,4 @@
-1. **[exa](https://github.com/ogham/exa)** - продвинутый ls
+1. **[exa](https://github.com/ogham/exa)** -> **[eza](https://github.com/eza-community/eza)** - продвинутый ls
 2. **[zoxide](https://github.com/ajeetdsouza/zoxide)** - продвинутый cd
 3. **[thefuck](https://github.com/nvbn/thefuck)** - исправление команд.
 4. **[lazygit](https://github.com/jesseduffield/lazygit)** - gui git для терминала
@@ -11,3 +11,4 @@
 11. **oh-my-zsh** - фреймворк для командной оболочки zsh
 12. **neofetch** - вывод базовой информации о системе
 13. **btop** - крутой htop
+14. **[ugrep](https://ugrep.com)** - продвинутая замена grep
