@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                    "file": "Logbook/2024-02-20.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                    "file": "Logbook/2024-02-20.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                "file": "Logbook/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+                "file": "Logbook/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Linux/🧰 CLI-инструменты.md"
+                "file": "Logbook/2024-02-20.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-20.md",
     "Logbook/2024-02-19.md",
@@ -246,7 +247,6 @@
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-02-15.md",
     "GTD/Проекты/РИАС.md",
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Справки/Ссылки по работе openstreetmap.md",
