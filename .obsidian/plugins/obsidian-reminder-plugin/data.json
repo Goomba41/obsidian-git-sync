@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md": [
-      {
-        "title": "Удалить репозитории",
-        "time": "2024-03-15 10:00",
-        "rowNumber": 20
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
