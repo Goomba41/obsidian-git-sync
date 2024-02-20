@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,8 +38,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
-                    "mode": "source",
+                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "mode": "preview",
                     "source": true
                   }
                 },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md"
+                "file": "GTD/Задачи/Окружение разработки.md"
               }
             }
           }
@@ -230,11 +230,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a1a542f3eb8d257",
+  "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
+    "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "GTD/Справки/Персоны/Илья Николаевич Малько.md",
-    "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
     "GTD/Задачи/Обновить CI.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
