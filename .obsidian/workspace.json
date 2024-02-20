@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-20.md",
+                    "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,8 +38,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-02-20.md",
-                    "mode": "preview",
+                    "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-20.md",
+                "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-20.md",
+                "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-20.md"
+                "file": "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md"
               }
             }
           }
@@ -232,11 +232,15 @@
   },
   "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
+    "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
+    "GTD/Справки/Персоны/Илья Николаевич Малько.md",
+    "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
+    "GTD/Задачи/Обновить CI.md",
+    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-20.md",
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Logbook/2024-02-19.md",
-    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "Pasted image 20240219130245.png",
@@ -257,10 +261,6 @@
     "GTD/Задачи/Что-то там с сертификатами.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "Logbook/2024-02-13.md",
-    "Logbook/2024-02-12.md",
-    "GTD/Напоминания/Untitled.md",
-    "Logbook/2024-02-09.md",
-    "Logbook/2024-02-08.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
