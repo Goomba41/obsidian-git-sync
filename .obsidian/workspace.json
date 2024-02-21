@@ -39,7 +39,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -230,15 +230,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "94f8f1e208cd75b0",
+  "active": "1a1a542f3eb8d257",
   "lastOpenFiles": [
+    "Logbook/2024-02-21.md",
+    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
     "Templates/Задача.md",
-    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев.md",
-    "Logbook/2024-02-21.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Logbook/__attachments-2024-02-19__/b6d5d0562c9a8bd0fa87d6f3a1352cbd.png",
     "Logbook/__attachments-2024-02-19__",
@@ -270,7 +270,6 @@
     "GTD/Проекты",
     "GTD/Напоминания",
     "GTD/Входящие",
-    "GTD/Задачи",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
     "Untitled.canvas",
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
