@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "6fa89f14e100c55f",
-        "type": "tabs",
+        "id": "c11f6048f31aeb17",
+        "type": "split",
         "children": [
           {
-            "id": "74fbdb74b08a7833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
-                "mode": "source",
-                "source": true
+            "id": "6fa89f14e100c55f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74fbdb74b08a7833",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "a4aac45aa04c11cb"
               }
-            }
+            ]
+          },
+          {
+            "id": "765168af9d6425f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb239c28e6c7b722",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "group": "a4aac45aa04c11cb"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -203,14 +230,14 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
+    "GTD/Задачи/Окружение разработки.md",
+    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-02-26.md",
     "Logbook/2024-02-22.md",
-    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-02-21.md",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
     "Templates/Задача.md",
-    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Объединение репозиториев.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Logbook/__attachments-2024-02-19__/b6d5d0562c9a8bd0fa87d6f3a1352cbd.png",
