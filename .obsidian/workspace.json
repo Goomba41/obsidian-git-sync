@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "file": "Logbook/2024-02-26.md",
                     "mode": "source",
                     "source": true
                   }
@@ -51,8 +51,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
-                    "mode": "preview",
+                    "file": "Logbook/2024-02-26.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -243,7 +243,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "074d6b1fad07a147",
+  "active": "1ad6216420a1b6fd",
   "lastOpenFiles": [
     "Logbook/2024-02-26.md",
     "Logbook/2024-02-22.md",
