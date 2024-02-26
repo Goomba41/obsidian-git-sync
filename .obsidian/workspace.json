@@ -24,8 +24,21 @@
                   }
                 },
                 "group": "0e3489e8152b4ed6"
+              },
+              {
+                "id": "074d6b1fad07a147",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logbook/2024-02-26.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "73820d84e69764a5",
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "file": "Logbook/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "file": "Logbook/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md"
+                "file": "Logbook/2024-02-26.md"
               }
             }
           }
@@ -230,8 +243,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1a1a542f3eb8d257",
+  "active": "074d6b1fad07a147",
   "lastOpenFiles": [
+    "Logbook/2024-02-26.md",
     "Logbook/2024-02-22.md",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-02-21.md",
@@ -264,7 +278,6 @@
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
     "GTD/Справки/Ссылки по работе openstreetmap.md",
     "GTD/GTD и организация папки.md",
-    "GTD/Задачи/Взлом SpreadJS.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
