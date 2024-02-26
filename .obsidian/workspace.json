@@ -4,64 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d188d385160fdbb4",
-        "type": "split",
+        "id": "6fa89f14e100c55f",
+        "type": "tabs",
         "children": [
           {
-            "id": "25a3573ecf81cdc4",
-            "type": "tabs",
-            "dimension": 57.442748091603065,
-            "children": [
-              {
-                "id": "1a1a542f3eb8d257",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logbook/2024-02-26.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "0e3489e8152b4ed6"
-              },
-              {
-                "id": "074d6b1fad07a147",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logbook/2024-02-26.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "74fbdb74b08a7833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "73820d84e69764a5",
-            "type": "tabs",
-            "dimension": 42.557251908396935,
-            "children": [
-              {
-                "id": "1ad6216420a1b6fd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logbook/2024-02-26.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "0e3489e8152b4ed6"
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-02-26.md",
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-02-26.md",
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-02-26.md"
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md"
               }
             }
           }
@@ -243,7 +201,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1ad6216420a1b6fd",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
     "Logbook/2024-02-26.md",
     "Logbook/2024-02-22.md",
