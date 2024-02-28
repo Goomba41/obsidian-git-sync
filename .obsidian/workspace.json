@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-02-28.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-02-28.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "Logbook/2024-02-28.md"
               }
             }
           }
@@ -230,21 +230,21 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
+    "Templates/Задача.md",
+    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+    "GTD/Задачи/Окружение разработки.md",
     "Logbook/2024-02-28.md",
     "Logbook/2024-02-27.md",
-    "GTD/Задачи/Окружение разработки.md",
     "Logbook/2024-02-26.md",
     "GTD/Справки/Генерация сертификатов сервера.md",
     "GTD/Справки/Ссылки по работе openstreetmap.md",
     "GTD/Справки/Генерация сертификатов для сервера.md",
     "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
     "Wiki/Программирование/GIT/Организация рабочего потока.md",
-    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-02-22.md",
     "Logbook/2024-02-21.md",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
-    "Templates/Задача.md",
     "GTD/Задачи/Объединение репозиториев.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Logbook/__attachments-2024-02-19__/b6d5d0562c9a8bd0fa87d6f3a1352cbd.png",
