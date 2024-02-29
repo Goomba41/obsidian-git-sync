@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "file": "Logbook/2024-03-01.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "file": "Logbook/2024-03-01.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "file": "Logbook/2024-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "file": "Logbook/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md"
+                "file": "Logbook/2024-03-01.md"
               }
             }
           }
@@ -230,14 +230,15 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "GTD/Задачи/Окружение разработки.md",
     "Logbook/2024-02-29.md",
+    "Logbook/2024-03-01.md",
+    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+    "GTD/Задачи/Окружение разработки.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Опять конвертация.md",
     "Logbook/2024-02-28.md",
-    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Templates/Задача.md",
     "Logbook/2024-02-27.md",
     "Logbook/2024-02-26.md",
@@ -262,7 +263,6 @@
     "Logbook/2024-02-05.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
-    "GTD/Справки/Персоны/Илья Николаевич Малько.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
