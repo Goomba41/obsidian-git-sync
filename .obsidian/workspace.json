@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md"
               }
             }
           }
@@ -228,10 +228,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb239c28e6c7b722",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-02-29.md",
     "GTD/Задачи/Окружение разработки.md",
+    "Logbook/2024-02-29.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Задачи/Объединение репозиториев.md",
