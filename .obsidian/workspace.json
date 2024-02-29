@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Linux/Self-hosted штуки.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Linux/Self-hosted штуки.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Linux/Self-hosted штуки.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Linux/Self-hosted штуки.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Linux/Self-hosted штуки.md"
+                "file": "GTD/Задачи/Окружение разработки.md"
               }
             }
           }
@@ -228,14 +228,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "74fbdb74b08a7833",
+  "active": "eb239c28e6c7b722",
   "lastOpenFiles": [
-    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
-    "Wiki/Программирование/Linux/Self-hosted штуки.md",
+    "Logbook/2024-02-29.md",
     "GTD/Задачи/Окружение разработки.md",
+    "Wiki/Программирование/Linux/Self-hosted штуки.md",
+    "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Опять конвертация.md",
-    "Logbook/2024-02-29.md",
     "Logbook/2024-02-28.md",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Templates/Задача.md",
