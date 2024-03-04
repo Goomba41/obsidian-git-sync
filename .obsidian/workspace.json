@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-01.md",
+                    "file": "Logbook/2024-03-04.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,8 +36,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-01.md",
-                    "mode": "preview",
+                    "file": "Logbook/2024-03-04.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-03-01.md",
+                "file": "Logbook/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-03-01.md",
+                "file": "Logbook/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-03-01.md"
+                "file": "Logbook/2024-03-04.md"
               }
             }
           }
@@ -228,10 +228,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "74fbdb74b08a7833",
+  "active": "eb239c28e6c7b722",
   "lastOpenFiles": [
-    "Logbook/2024-02-29.md",
     "Logbook/2024-03-01.md",
+    "Logbook/2024-03-04.md",
+    "Logbook/2024-02-29.md",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "GTD/Задачи/Окружение разработки.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
@@ -262,7 +263,6 @@
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-05.md",
     "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
-    "GTD/Справки/Персоны/Аркадий Вадимович Челядников.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
