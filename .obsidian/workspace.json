@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-04.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-04.md",
+                    "file": "GTD/Задачи/Окружение разработки.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-03-04.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-03-04.md",
+                "file": "GTD/Задачи/Окружение разработки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-03-04.md"
+                "file": "GTD/Задачи/Окружение разработки.md"
               }
             }
           }
@@ -230,9 +230,10 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
+    "Logbook/2024-03-05.md",
+    "Logbook/2024-03-04.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
-    "Logbook/2024-03-04.md",
     "Logbook/2024-03-01.md",
     "Logbook/2024-02-29.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
@@ -262,7 +263,6 @@
     "GTD/Задачи/Обновить CI.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
     "Logbook/2024-02-05.md",
-    "GTD/Справки/Персоны/Константин Сергеевич Шурупов.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
