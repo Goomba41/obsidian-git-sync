@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "file": "Logbook/2024-03-05.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                    "file": "Logbook/2024-03-05.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "file": "Logbook/2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+                "file": "Logbook/2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Посмотреть ответ АГЗРТ.md"
+                "file": "Logbook/2024-03-05.md"
               }
             }
           }
@@ -230,8 +230,8 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+    "GTD/Задачи/Окружение разработки.md",
     "Logbook/2024-03-05.md",
     "Logbook/2024-03-04.md",
     "Logbook/2024-03-01.md",
