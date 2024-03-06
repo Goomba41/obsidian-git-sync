@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-03-06.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-03-06.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "Logbook/2024-03-06.md"
               }
             }
           }
@@ -231,8 +231,9 @@
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
     "Logbook/2024-03-05.md",
-    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+    "Logbook/2024-03-06.md",
     "GTD/Задачи/Окружение разработки.md",
+    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-03-04.md",
     "Logbook/2024-03-01.md",
     "Logbook/2024-02-29.md",
@@ -262,7 +263,6 @@
     "GTD/Задачи/Документация к КСО.md",
     "GTD/Задачи/Обновить CI.md",
     "GTD/Задачи/Объединение репозиториев и перенос на ubuntu.md",
-    "Logbook/2024-02-05.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
