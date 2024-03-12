@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-11.md",
+                    "file": "GTD/Задачи/Опять конвертация.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,8 +36,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-11.md",
-                    "mode": "source",
+                    "file": "GTD/Задачи/Опять конвертация.md",
+                    "mode": "preview",
                     "source": true
                   }
                 },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-03-11.md",
+                "file": "GTD/Задачи/Опять конвертация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-03-11.md",
+                "file": "GTD/Задачи/Опять конвертация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-03-11.md"
+                "file": "GTD/Задачи/Опять конвертация.md"
               }
             }
           }
@@ -230,20 +230,21 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-03-07.md",
+    "GTD/Задачи/Окружение разработки.md",
+    "GTD/Задачи/Опять конвертация.md",
+    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
+    "Logbook/2024-03-12.md",
     "Logbook/2024-03-11.md",
+    "Logbook/2024-03-07.md",
     "Logbook/2024-03-06.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
-    "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-03-05.md",
-    "GTD/Задачи/Окружение разработки.md",
     "Logbook/2024-03-04.md",
     "Logbook/2024-03-01.md",
     "Logbook/2024-02-29.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Задачи/Объединение репозиториев.md",
-    "GTD/Задачи/Опять конвертация.md",
     "Logbook/2024-02-28.md",
     "Templates/Задача.md",
     "Logbook/2024-02-27.md",
@@ -262,7 +263,6 @@
     "GTD/Задачи/__attachments-Опять конвертация__",
     "GTD/Задачи/__attachments-Опять конвертация__/20a3e99948ee680a26ce8b1ca5c9f5d8.png",
     "Logbook/2024-02-20.md",
-    "GTD/Задачи/Документация к КСО.md",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
     "GTD/Справки",
