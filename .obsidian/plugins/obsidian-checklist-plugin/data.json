@@ -10,8 +10,6 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "!Templates/**",
   "lookAndFeel": "classic",
-  "_collapsedSections": [
-    "#проект"
-  ],
+  "_collapsedSections": [],
   "_hiddenTags": []
 }
