@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Конвертация на 12 марта.md",
+                    "file": "Logbook/2024-03-12.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Конвертация на 12 марта.md",
+                    "file": "Logbook/2024-03-12.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Конвертация на 12 марта.md",
+                "file": "Logbook/2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Конвертация на 12 марта.md",
+                "file": "Logbook/2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Конвертация на 12 марта.md"
+                "file": "Logbook/2024-03-12.md"
               }
             }
           }
@@ -230,8 +230,8 @@
   },
   "active": "eb239c28e6c7b722",
   "lastOpenFiles": [
-    "Logbook/2024-03-12.md",
     "GTD/Задачи/Конвертация на 12 марта.md",
+    "Logbook/2024-03-12.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Доделки по АГЗРТ.md",
     "GTD/Задачи/Опять конвертация.md",
