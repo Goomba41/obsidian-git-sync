@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-12.md",
+                    "file": "Logbook/2024-03-13.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-12.md",
+                    "file": "Logbook/2024-03-13.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-03-12.md",
+                "file": "Logbook/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-03-12.md",
+                "file": "Logbook/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-03-12.md"
+                "file": "Logbook/2024-03-13.md"
               }
             }
           }
@@ -228,10 +228,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb239c28e6c7b722",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "GTD/Задачи/Конвертация на 12 марта.md",
     "Logbook/2024-03-12.md",
+    "Logbook/2024-03-13.md",
+    "GTD/Задачи/Конвертация на 12 марта.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "GTD/Задачи/Доделки по АГЗРТ.md",
     "GTD/Задачи/Опять конвертация.md",
@@ -256,7 +257,6 @@
     "Logbook/2024-02-28.md",
     "Logbook/2024-02-27.md",
     "Logbook/2024-02-26.md",
-    "GTD/Справки/Генерация сертификатов сервера.md",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
     "Logbook/__attachments-2024-02-19__/b6d5d0562c9a8bd0fa87d6f3a1352cbd.png",
