@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Справки/Порядок конвертации.md",
+                    "file": "Logbook/2024-03-14.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,8 +36,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Справки/Порядок конвертации.md",
-                    "mode": "preview",
+                    "file": "Logbook/2024-03-14.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Справки/Порядок конвертации.md",
+                "file": "Logbook/2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Справки/Порядок конвертации.md",
+                "file": "Logbook/2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Справки/Порядок конвертации.md"
+                "file": "Logbook/2024-03-14.md"
               }
             }
           }
