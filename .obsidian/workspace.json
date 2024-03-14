@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-14.md",
+                    "file": "GTD/Справки/Порядок конвертации.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,8 +36,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-14.md",
-                    "mode": "source",
+                    "file": "GTD/Справки/Порядок конвертации.md",
+                    "mode": "preview",
                     "source": true
                   }
                 },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-03-14.md",
+                "file": "GTD/Справки/Порядок конвертации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-03-14.md",
+                "file": "GTD/Справки/Порядок конвертации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-03-14.md"
+                "file": "GTD/Справки/Порядок конвертации.md"
               }
             }
           }
@@ -231,8 +231,8 @@
   "active": "eb239c28e6c7b722",
   "lastOpenFiles": [
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
-    "GTD/Проекты/КСО.md",
     "Logbook/2024-03-14.md",
+    "GTD/Проекты/КСО.md",
     "Wiki/Программирование/Linux/Manjaro.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
