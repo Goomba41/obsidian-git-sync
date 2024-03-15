@@ -56,7 +56,7 @@
       "text": "Удалить репозитории  — 2024-03-15 10:00",
       "check": false,
       "date": "2024-03-15T07:00:00.000Z",
-      "firstSend": false,
+      "firstSend": true,
       "secondSend": true
     },
     {
