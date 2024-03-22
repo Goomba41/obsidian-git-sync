@@ -10,7 +10,7 @@
           {
             "id": "6fa89f14e100c55f",
             "type": "tabs",
-            "dimension": 35.01908396946565,
+            "dimension": 57.25190839694656,
             "children": [
               {
                 "id": "74fbdb74b08a7833",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-22.md",
+                    "file": "GTD/Задачи/Опять конвертация.md",
                     "mode": "source",
                     "source": true
                   }
@@ -30,7 +30,7 @@
           {
             "id": "765168af9d6425f7",
             "type": "tabs",
-            "dimension": 64.98091603053436,
+            "dimension": 42.74809160305343,
             "children": [
               {
                 "id": "eb239c28e6c7b722",
@@ -38,8 +38,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-03-22.md",
-                    "mode": "preview",
+                    "file": "GTD/Задачи/Опять конвертация.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-03-22.md",
+                "file": "GTD/Задачи/Опять конвертация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-03-22.md",
+                "file": "GTD/Задачи/Опять конвертация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-03-22.md"
+                "file": "GTD/Задачи/Опять конвертация.md"
               }
             }
           }
@@ -232,8 +232,9 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "GTD/Задачи/Опять конвертация.md",
+    "GTD/Задачи/Создать новый ssh-ключ.md",
     "Logbook/2024-03-22.md",
+    "GTD/Задачи/Опять конвертация.md",
     "Logbook/2024-03-21.md",
     "Logbook/2024-03-20.md",
     "Logbook/2024-03-19.md",
@@ -257,7 +258,6 @@
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Посмотреть ответ АГЗРТ.md",
     "Logbook/2024-03-11.md",
-    "Logbook/2024-03-07.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
