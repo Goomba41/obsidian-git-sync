@@ -80,6 +80,14 @@
       "text": "Создать новый ssh-ключ для Gitlab  — 2024-03-25 13:41",
       "check": false,
       "date": "2024-03-25T10:41:00.000Z",
+      "firstSend": true,
+      "secondSend": true
+    },
+    {
+      "id": 1711432800000,
+      "text": "Создать новый ssh-ключ для Gitlab  — 2024-03-26 09:00",
+      "check": false,
+      "date": "2024-03-26T06:00:00.000Z",
       "firstSend": false,
       "secondSend": true
     }
