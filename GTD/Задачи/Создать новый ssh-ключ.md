@@ -24,4 +24,4 @@ TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Созда�
 
 # Описание
 
-- [ ] Создать новый ssh-ключ для Gitlab (@2024-03-25)
+- [ ] Создать новый ssh-ключ для Gitlab (@2024-03-25 13:41)
