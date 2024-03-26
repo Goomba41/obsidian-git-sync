@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "GTD/Задачи/Создать новый ssh-ключ.md": [
-      {
-        "title": "Создать новый ssh-ключ для Gitlab",
-        "time": "2024-03-26",
-        "rowNumber": 26
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
