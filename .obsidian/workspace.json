@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-03-29.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Окружение разработки.md",
+                    "file": "Logbook/2024-03-29.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md",
+                "file": "Logbook/2024-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Окружение разработки.md"
+                "file": "Logbook/2024-03-29.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   },
   "active": "eb239c28e6c7b722",
   "lastOpenFiles": [
+    "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Опять конвертация.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "Logbook/2024-03-29.md",
@@ -257,7 +258,6 @@
     "Logbook/2024-03-13.md",
     "Logbook/2024-03-12.md",
     "GTD/Задачи/Взлом SpreadJS.md",
-    "Templates/Справка.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
