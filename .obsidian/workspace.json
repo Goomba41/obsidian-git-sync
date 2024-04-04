@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев.md",
+                    "file": "GTD/Справки/Изыскания по взлому SpreadJS.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,8 +38,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Объединение репозиториев.md",
-                    "mode": "preview",
+                    "file": "GTD/Справки/Изыскания по взлому SpreadJS.md",
+                    "mode": "source",
                     "source": true
                   }
                 },
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сейчас",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +117,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев.md",
+                "file": "GTD/Справки/Изыскания по взлому SpreadJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев.md",
+                "file": "GTD/Справки/Изыскания по взлому SpreadJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GTD/Задачи/Объединение репозиториев.md"
+                "file": "GTD/Справки/Изыскания по взлому SpreadJS.md"
               }
             }
           }
@@ -233,11 +232,13 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
+    "GTD/Задачи/Взлом SpreadJS.md",
+    "GTD/Справки/Изыскания по взлому SpreadJS.md",
+    "GTD/Проекты/РИАС.md",
     "Logbook/2024-04-04.md",
     "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Доделки по АГЗРТ.md",
-    "GTD/Задачи/Взлом SpreadJS.md",
     "Logbook/2024-04-03.md",
     "GTD/Задачи/Документация к КСО.md",
     "Logbook/2024-04-02.md",
@@ -257,8 +258,6 @@
     "Logbook/2024-03-18.md",
     "GTD/Справки/Порядок конвертации.md",
     "Logbook/2024-03-15.md",
-    "Logbook/2024-03-14.md",
-    "GTD/Задачи/Конвертация на 12 марта.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
