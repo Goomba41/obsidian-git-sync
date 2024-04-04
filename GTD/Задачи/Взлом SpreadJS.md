@@ -6,7 +6,7 @@ TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Созда�
 ```
 
 #задача/ожидание %% сейчас | потом | ожидание | однажды %%
-- [ ] Завершение «Взлом SpreadJS»
+- [x] Завершение «Взлом SpreadJS»
 
 # Ссылки
 [РИАС](../Проекты/РИАС.md)
