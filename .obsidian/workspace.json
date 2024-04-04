@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "сейчас",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,14 +231,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb239c28e6c7b722",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
+    "Logbook/2024-04-04.md",
+    "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Окружение разработки.md",
     "GTD/Задачи/Доделки по АГЗРТ.md",
     "GTD/Задачи/Взлом SpreadJS.md",
-    "Logbook/2024-04-04.md",
     "Logbook/2024-04-03.md",
-    "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/Документация к КСО.md",
     "Logbook/2024-04-02.md",
     "Logbook/2024-04-01.md",
