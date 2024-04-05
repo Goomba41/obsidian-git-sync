@@ -24,13 +24,24 @@
                   }
                 },
                 "group": "a4aac45aa04c11cb"
+              },
+              {
+                "id": "edaac6a14eb0385c",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.5.12"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "765168af9d6425f7",
             "type": "tabs",
-            "dimension": 42.74809160305343,
+            "dimension": 42.74809160305344,
             "children": [
               {
                 "id": "eb239c28e6c7b722",
@@ -230,7 +241,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "74fbdb74b08a7833",
+  "active": "edaac6a14eb0385c",
   "lastOpenFiles": [
     "GTD/Справки/Изыскания по взлому SpreadJS.md",
     "Logbook/2024-04-05.md",
