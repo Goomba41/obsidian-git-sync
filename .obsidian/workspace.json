@@ -24,19 +24,8 @@
                   }
                 },
                 "group": "a4aac45aa04c11cb"
-              },
-              {
-                "id": "edaac6a14eb0385c",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.5.12"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "765168af9d6425f7",
@@ -241,7 +230,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "edaac6a14eb0385c",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
     "GTD/Справки/Изыскания по взлому SpreadJS.md",
     "Logbook/2024-04-05.md",
