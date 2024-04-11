@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-11.md",
+                    "file": "GTD/Задачи/Доделки по АГЗРТ.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-11.md",
+                    "file": "GTD/Задачи/Доделки по АГЗРТ.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-04-11.md",
+                "file": "GTD/Задачи/Доделки по АГЗРТ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-04-11.md",
+                "file": "GTD/Задачи/Доделки по АГЗРТ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-04-11.md"
+                "file": "GTD/Задачи/Доделки по АГЗРТ.md"
               }
             }
           }
@@ -232,8 +232,8 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-04-10.md",
     "Logbook/2024-04-11.md",
+    "Logbook/2024-04-10.md",
     "Logbook/2024-04-09.md",
     "Logbook/2024-04-08.md",
     "Logbook/2024-04-05.md",
