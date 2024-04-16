@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-15.md",
+                    "file": "Logbook/2024-04-16.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-15.md",
+                    "file": "Logbook/2024-04-16.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-04-15.md",
+                "file": "Logbook/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-04-15.md",
+                "file": "Logbook/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-04-15.md"
+                "file": "Logbook/2024-04-16.md"
               }
             }
           }
@@ -232,8 +232,9 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-04-12.md",
     "Logbook/2024-04-15.md",
+    "Logbook/2024-04-16.md",
+    "Logbook/2024-04-12.md",
     "Logbook/2024-04-11.md",
     "GTD/Задачи/Доделки по АГЗРТ.md",
     "Logbook/2024-04-10.md",
@@ -257,7 +258,6 @@
     "Logbook/2024-03-28.md",
     "Logbook/2024-03-27.md",
     "Logbook/2024-03-26.md",
-    "Logbook/2024-03-25.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
