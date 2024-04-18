@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-17.md",
+                    "file": "Logbook/2024-04-18.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-17.md",
+                    "file": "Logbook/2024-04-18.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-04-17.md",
+                "file": "Logbook/2024-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-04-17.md",
+                "file": "Logbook/2024-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-04-17.md"
+                "file": "Logbook/2024-04-18.md"
               }
             }
           }
@@ -232,8 +232,11 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-04-16.md",
+    "GTD/GTD и организация папки.md",
+    "GTD/Задачи/Взлом SpreadJS.md",
+    "Logbook/2024-04-18.md",
     "Logbook/2024-04-17.md",
+    "Logbook/2024-04-16.md",
     "Logbook/2024-04-15.md",
     "Logbook/2024-04-12.md",
     "Logbook/2024-04-11.md",
@@ -244,7 +247,6 @@
     "Logbook/2024-04-05.md",
     "GTD/Справки/Изыскания по взлому SpreadJS.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
-    "GTD/Задачи/Взлом SpreadJS.md",
     "GTD/Проекты/РИАС.md",
     "Logbook/2024-04-04.md",
     "GTD/Задачи/Объединение репозиториев.md",
@@ -256,8 +258,6 @@
     "Logbook/2024-03-29.md",
     "GTD/Задачи/Опять конвертация.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
-    "Logbook/2024-03-28.md",
-    "Logbook/2024-03-27.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
