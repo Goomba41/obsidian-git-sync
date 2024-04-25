@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Windows/Полезные команды.md",
+                    "file": "Logbook/2024-04-25.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Windows/Полезные команды.md",
+                    "file": "Logbook/2024-04-25.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Программирование/Windows/Полезные команды.md",
+                "file": "Logbook/2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Программирование/Windows/Полезные команды.md",
+                "file": "Logbook/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Программирование/Windows/Полезные команды.md"
+                "file": "Logbook/2024-04-25.md"
               }
             }
           }
@@ -232,8 +232,8 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-04-25.md",
     "Wiki/Программирование/Windows/Полезные команды.md",
+    "Logbook/2024-04-25.md",
     "Wiki/Программирование/Windows",
     "Logbook/2024-04-24.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
