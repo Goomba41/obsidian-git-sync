@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-24.md",
+                    "file": "Logbook/2024-04-25.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-24.md",
+                    "file": "Logbook/2024-04-25.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-04-24.md",
+                "file": "Logbook/2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-04-24.md",
+                "file": "Logbook/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-04-24.md"
+                "file": "Logbook/2024-04-25.md"
               }
             }
           }
@@ -232,8 +232,10 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-04-23.md",
     "Logbook/2024-04-24.md",
+    "Logbook/2024-04-25.md",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
+    "Logbook/2024-04-23.md",
     "Logbook/2024-04-22.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Wiki/Программирование/Linux/Manjaro.md",
@@ -256,8 +258,6 @@
     "GTD/Проекты/РИАС.md",
     "Logbook/2024-04-04.md",
     "GTD/Задачи/Объединение репозиториев.md",
-    "GTD/Задачи/Окружение разработки.md",
-    "Logbook/2024-04-03.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
