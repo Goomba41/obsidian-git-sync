@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-25.md",
+                    "file": "Wiki/Программирование/Windows/Полезные команды.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-04-25.md",
+                    "file": "Wiki/Программирование/Windows/Полезные команды.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-04-25.md",
+                "file": "Wiki/Программирование/Windows/Полезные команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-04-25.md",
+                "file": "Wiki/Программирование/Windows/Полезные команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-04-25.md"
+                "file": "Wiki/Программирование/Windows/Полезные команды.md"
               }
             }
           }
@@ -232,8 +232,10 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-04-24.md",
     "Logbook/2024-04-25.md",
+    "Wiki/Программирование/Windows/Полезные команды.md",
+    "Wiki/Программирование/Windows",
+    "Logbook/2024-04-24.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Logbook/2024-04-23.md",
     "Logbook/2024-04-22.md",
@@ -257,7 +259,6 @@
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
     "GTD/Проекты/РИАС.md",
     "Logbook/2024-04-04.md",
-    "GTD/Задачи/Объединение репозиториев.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
@@ -270,7 +271,6 @@
     "GTD/Справки",
     "GTD/Проекты",
     "GTD/Напоминания",
-    "GTD/Входящие",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
     "Untitled.canvas",
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
