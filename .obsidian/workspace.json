@@ -117,8 +117,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,7 +230,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "74fbdb74b08a7833",
+  "active": "eb239c28e6c7b722",
   "lastOpenFiles": [
     "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
     "Logbook/2024-05-13.md",
