@@ -117,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,10 +231,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "39bb40081f38fc96",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-05-08.md",
+    "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
     "Logbook/2024-05-13.md",
+    "Logbook/2024-05-08.md",
     "Logbook/2024-05-08^.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
     "Logbook/2024-05-07.md",
@@ -258,7 +260,6 @@
     "Logbook/2024-04-18.md",
     "GTD/GTD и организация папки.md",
     "GTD/Задачи/Взлом SpreadJS.md",
-    "Logbook/2024-04-17.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
