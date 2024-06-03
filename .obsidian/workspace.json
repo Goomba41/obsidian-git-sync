@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-05-13.md",
+                    "file": "Logbook/2024-06-03.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,8 +38,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-05-13.md",
-                    "mode": "source",
+                    "file": "Logbook/2024-06-03.md",
+                    "mode": "preview",
                     "source": true
                   }
                 },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-05-13.md",
+                "file": "Logbook/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-05-13.md",
+                "file": "Logbook/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-05-13.md"
+                "file": "Logbook/2024-06-03.md"
               }
             }
           }
@@ -230,35 +230,39 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb239c28e6c7b722",
+  "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
+    "Logbook/__attachments-2024-05-15__",
+    "Logbook/2024-05-31.md",
+    "Logbook/2024-06-03.md",
+    "Wiki/Программирование/Linux/Self-hosted штуки.md",
+    "Logbook/2024-05-30.md",
+    "Logbook/2024-05-29.md",
+    "Logbook/2024-05-28.md",
+    "Logbook/2024-05-27.md",
+    "Logbook/2024-05-24.md",
+    "Logbook/2024-05-23.md",
+    "Logbook/2024-05-22.md",
+    "Logbook/2024-05-21.md",
+    "Logbook/2024-05-20.md",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
+    "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
+    "Logbook/2024-05-17.md",
+    "Logbook/2024-05-16.md",
+    "Logbook/2024-05-15.md",
+    "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
+    "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
+    "Logbook/__attachments-2024-05-15__/094ede2eb01aa90f626932592dfc7c80.png",
+    "Logbook/__attachments-2024-05-15__/4d92d6b1969f6c0bf2b945b6efe05005.png",
+    "Logbook/2024-05-14.md",
+    "GTD/Напоминания/Встреча по Gitlab.md",
     "Logbook/2024-05-13.md",
+    "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
     "Logbook/2024-05-08.md",
     "Logbook/2024-05-08^.md",
     "GTD/Проекты/Конвертация DirectumRX (Киров).md",
-    "Logbook/2024-05-07.md",
-    "GTD/Задачи/Документация к КСО.md",
-    "GTD/Задачи/Окружение разработки.md",
-    "GTD/Задачи/Доделки по АГЗРТ.md",
-    "Logbook/2024-05-06.md",
-    "Logbook/2024-05-03.md",
-    "Logbook/2024-05-02.md",
-    "Logbook/2024-04-27.md",
-    "Logbook/2024-04-26.md",
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
-    "Logbook/2024-04-25.md",
-    "Wiki/Программирование/Windows/Полезные команды.md",
     "Wiki/Программирование/Windows",
-    "Logbook/2024-04-24.md",
-    "Logbook/2024-04-23.md",
-    "Logbook/2024-04-22.md",
-    "Wiki/Программирование/Linux/Self-hosted штуки.md",
-    "Wiki/Программирование/Linux/Manjaro.md",
-    "Logbook/2024-04-19.md",
-    "Logbook/2024-04-18.md",
-    "GTD/GTD и организация папки.md",
-    "GTD/Задачи/Взлом SpreadJS.md",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
