@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-06-03.md",
+                    "file": "Logbook/2024-06-04.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-06-03.md",
+                    "file": "Logbook/2024-06-04.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-06-03.md",
+                "file": "Logbook/2024-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-06-03.md",
+                "file": "Logbook/2024-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-06-03.md"
+                "file": "Logbook/2024-06-04.md"
               }
             }
           }
@@ -232,9 +232,10 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
+    "Logbook/2024-06-03.md",
+    "Logbook/2024-06-04.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/2024-05-31.md",
-    "Logbook/2024-06-03.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Logbook/2024-05-30.md",
     "Logbook/2024-05-29.md",
@@ -274,7 +275,6 @@
     "GTD/Справки/Персоны",
     "GTD/Справки",
     "GTD/Проекты",
-    "GTD/Напоминания",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
     "Untitled.canvas",
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
