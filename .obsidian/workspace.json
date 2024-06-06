@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-06-05.md",
+                    "file": "Logbook/2024-06-06.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-06-05.md",
+                    "file": "Logbook/2024-06-06.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-06-05.md",
+                "file": "Logbook/2024-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-06-05.md",
+                "file": "Logbook/2024-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-06-05.md"
+                "file": "Logbook/2024-06-06.md"
               }
             }
           }
@@ -232,12 +232,14 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-06-04.md",
     "Logbook/2024-06-05.md",
+    "Logbook/2024-06-06.md",
+    "Wiki/Awesomes.md",
+    "Wiki/Программирование/Linux/Self-hosted штуки.md",
+    "Logbook/2024-06-04.md",
     "Logbook/2024-06-03.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/2024-05-31.md",
-    "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Logbook/2024-05-30.md",
     "Logbook/2024-05-29.md",
     "Logbook/2024-05-28.md",
@@ -261,8 +263,6 @@
     "GTD/Напоминания/Встреча по Gitlab.md",
     "Logbook/2024-05-13.md",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
-    "Logbook/2024-05-08.md",
-    "Logbook/2024-05-08^.md",
     "Wiki/Программирование/Windows",
     "GTD/Задачи/__attachments-Опять конвертация__/5b597052fd8c8e4bc7f7a979d5060d75.png",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
