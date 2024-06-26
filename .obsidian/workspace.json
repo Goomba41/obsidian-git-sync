@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-06-25.md",
+                    "file": "Logbook/2024-06-26.md",
                     "mode": "source",
                     "source": true
                   }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-06-25.md",
+                    "file": "Logbook/2024-06-26.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-06-25.md",
+                "file": "Logbook/2024-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-06-25.md",
+                "file": "Logbook/2024-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-06-25.md"
+                "file": "Logbook/2024-06-26.md"
               }
             }
           }
@@ -232,8 +232,9 @@
   },
   "active": "74fbdb74b08a7833",
   "lastOpenFiles": [
-    "Logbook/2024-06-24.md",
     "Logbook/2024-06-25.md",
+    "Logbook/2024-06-26.md",
+    "Logbook/2024-06-24.md",
     "Logbook/2024-06-21.md",
     "Logbook/2024-06-17.md",
     "Logbook/2024-06-20.md",
@@ -257,7 +258,6 @@
     "Wiki/Awesomes.md",
     "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "Logbook/2024-06-04.md",
-    "Logbook/2024-06-03.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
