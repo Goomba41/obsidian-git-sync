@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-08-02.md",
+                    "file": "Logbook/2024-08-05.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-08-02.md",
+                    "file": "Logbook/2024-08-05.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-08-02.md",
+                "file": "Logbook/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-08-02.md",
+                "file": "Logbook/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-08-02.md"
+                "file": "Logbook/2024-08-05.md"
               }
             }
           }
@@ -217,21 +217,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false
     }
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2024-07-31.md",
     "Logbook/2024-08-02.md",
+    "Logbook/2024-08-05.md",
+    "Logbook/2024-07-31.md",
     "Logbook/2024-07-30.md",
     "Logbook/2024-07-29.md",
     "Logbook/2024-07-26.md",
@@ -255,7 +256,6 @@
     "Logbook/2024-06-25.md",
     "Logbook/2024-06-24.md",
     "Logbook/2024-06-21.md",
-    "Logbook/2024-06-17.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
