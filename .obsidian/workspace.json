@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-08-15.md",
+                    "file": "Logbook/2024-08-16.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-08-15.md",
+                    "file": "Logbook/2024-08-16.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-08-15.md",
+                "file": "Logbook/2024-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-08-15.md",
+                "file": "Logbook/2024-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-08-15.md"
+                "file": "Logbook/2024-08-16.md"
               }
             }
           }
@@ -230,8 +230,9 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2024-08-14.md",
     "Logbook/2024-08-15.md",
+    "Logbook/2024-08-16.md",
+    "Logbook/2024-08-14.md",
     "Logbook/2024-08-09.md",
     "Logbook/2024-08-12.md",
     "Logbook/2024-08-13.md",
@@ -255,7 +256,6 @@
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
     "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
-    "Logbook/2024-07-01.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
