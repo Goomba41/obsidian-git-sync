@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-08-23.md",
+                    "file": "Logbook/2024-08-22.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-08-23.md",
+                    "file": "Logbook/2024-08-22.md",
                     "mode": "preview",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-08-23.md",
+                "file": "Logbook/2024-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-08-23.md",
+                "file": "Logbook/2024-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-08-23.md"
+                "file": "Logbook/2024-08-22.md"
               }
             }
           }
@@ -228,10 +228,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7813e3387a7e1327",
+  "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2024-08-22.md",
     "Logbook/2024-08-23.md",
+    "Logbook/2024-08-22.md",
     "Logbook/2024-08-21.md",
     "Logbook/2024-08-20.md",
     "Logbook/2024-08-16.md",
