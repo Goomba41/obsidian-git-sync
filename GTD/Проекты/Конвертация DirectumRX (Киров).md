@@ -6,7 +6,7 @@ TABLE without id dateformat(this.file.ctime, "dd.MM.yyyy HH:mm") as "Созда�
 ```
 
 #проект
-- [ ] Завершение «Конвертация DirectumRX (Киров)»
+- [x] Завершение «Конвертация DirectumRX (Киров)»
 
 # Список задач
 > [!danger] Незавершенные
