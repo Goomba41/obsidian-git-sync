@@ -1,0 +1,1 @@
+Прочитать и переписать [статью](https://bobbyhadz.com/blog/typescript-get-enum-values-as-array) + написать сюда функцию для преобразований
