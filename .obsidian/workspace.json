@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-09-05.md",
+                    "file": "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,8 +36,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-09-05.md",
-                    "mode": "source",
+                    "file": "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md",
+                    "mode": "preview",
                     "source": true
                   }
                 },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-09-05.md",
+                "file": "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-09-05.md",
+                "file": "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-09-05.md"
+                "file": "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md"
               }
             }
           }
@@ -228,11 +228,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
-    "Logbook/2024-09-04.md",
     "Logbook/2024-09-05.md",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md",
+    "Logbook/2024-09-04.md",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
     "Wiki/Программирование/Фронт/Языки/TypeScript/Инструменты/Инструменты для TypeScript.md",
