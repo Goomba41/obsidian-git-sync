@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-10-04.md",
+                    "file": "Logbook/2024-10-01.md",
                     "mode": "source",
                     "source": true
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-10-04.md",
+                    "file": "Logbook/2024-10-01.md",
                     "mode": "source",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-10-04.md",
+                "file": "Logbook/2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-10-04.md",
+                "file": "Logbook/2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-10-04.md"
+                "file": "Logbook/2024-10-01.md"
               }
             }
           }
@@ -230,12 +230,12 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/().md",
-    "Logbook/2024-10-04.md",
-    "Logbook/2024-10-03.md",
-    "Logbook/2024-10-02.md",
-    "Logbook/2024-10-01.md",
     "Logbook/2024-09-30.md",
+    "Logbook/2024-10-01.md",
+    "Logbook/2024-10-02.md",
+    "Logbook/2024-10-03.md",
+    "Logbook/2024-10-04.md",
+    "Logbook/().md",
     "Logbook/2024-09-27.md",
     "Logbook/2024-09-26.md",
     "Logbook/2024-09-25.md",
