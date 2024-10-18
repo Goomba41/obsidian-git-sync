@@ -17,10 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-10-16.md",
+                    "file": "Logbook/2024-10-18.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024-10-18"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -36,10 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-10-16.md",
+                    "file": "Logbook/2024-10-18.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024-10-18"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -64,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -81,7 +87,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           }
         ]
@@ -97,7 +105,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -112,7 +122,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           }
         ]
@@ -135,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2024-10-16.md",
+                "file": "Logbook/2024-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2024-10-18"
             }
           },
           {
@@ -161,10 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2024-10-16.md",
+                "file": "Logbook/2024-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2024-10-18"
             }
           },
           {
@@ -173,8 +191,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2024-10-16.md"
-              }
+                "file": "Logbook/2024-10-18.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2024-10-18"
             }
           }
         ]
@@ -189,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -197,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -205,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           }
         ],
@@ -230,8 +256,9 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2024-10-15.md",
     "Logbook/2024-10-16.md",
+    "Logbook/2024-10-18.md",
+    "Logbook/2024-10-15.md",
     "Logbook/2024-10-14.md",
     "Logbook/2024-10-11.md",
     "Logbook/2024-10-10.md",
@@ -255,7 +282,6 @@
     "Logbook/2024-09-20.md",
     "Logbook/2024-09-18.md",
     "Logbook/2024-09-17.md",
-    "Logbook/2024-09-16.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
