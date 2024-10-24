@@ -10,6 +10,7 @@
           {
             "id": "6fa89f14e100c55f",
             "type": "tabs",
+            "dimension": 37.06563706563706,
             "children": [
               {
                 "id": "3e50b62af29aae79",
@@ -17,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-10-23.md",
+                    "file": "Logbook/2024-10-24.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2024-10-23"
+                  "title": "2024-10-24"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -31,6 +32,7 @@
           {
             "id": "f65dff4ad3f491ef",
             "type": "tabs",
+            "dimension": 62.93436293436293,
             "children": [
               {
                 "id": "7813e3387a7e1327",
@@ -38,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2024-10-23.md",
-                    "mode": "source",
+                    "file": "Logbook/2024-10-24.md",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2024-10-23"
+                  "title": "2024-10-24"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -254,11 +256,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
+    "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
+    "Logbook/2024-10-24.md",
+    "Logbook/2024-10-23.md",
     "Logbook/2024-10-22.md",
     "Logbook/2024-10-21.md",
-    "Logbook/2024-10-23.md",
     "Logbook/2024-10-18.md",
     "Logbook/2024-10-17.md",
     "Logbook/2024-10-16.md",
@@ -280,8 +284,6 @@
     "Logbook/2024-09-25.md",
     "Logbook/2024-09-24.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
-    "Wiki/Программирование/Фронт/Фрэймворки/Vue/Библиотеки.md",
-    "Logbook/2024-09-23.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
