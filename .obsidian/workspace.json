@@ -10,7 +10,7 @@
           {
             "id": "6fa89f14e100c55f",
             "type": "tabs",
-            "dimension": 37.06563706563706,
+            "dimension": 48.455598455598455,
             "children": [
               {
                 "id": "3e50b62af29aae79",
@@ -32,7 +32,7 @@
           {
             "id": "f65dff4ad3f491ef",
             "type": "tabs",
-            "dimension": 62.93436293436294,
+            "dimension": 51.54440154440154,
             "children": [
               {
                 "id": "7813e3387a7e1327",
@@ -256,7 +256,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7813e3387a7e1327",
+  "active": "3e50b62af29aae79",
   "lastOpenFiles": [
     "Logbook/2024-10-24.md",
     "Logbook/2024-10-25.md",
