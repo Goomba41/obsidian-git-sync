@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-01-23.md",
+                    "file": "Logbook/2025-01-24.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-01-23"
+                  "title": "2025-01-24"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-01-23.md",
+                    "file": "Logbook/2025-01-24.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-01-23"
+                  "title": "2025-01-24"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -258,8 +258,9 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2025-01-22.md",
     "Logbook/2025-01-23.md",
+    "Logbook/2025-01-24.md",
+    "Logbook/2025-01-22.md",
     "Logbook/2025-01-21.md",
     "Logbook/2025-01-20.md",
     "Logbook/2025-01-17.md",
@@ -285,7 +286,6 @@
     "Logbook/2024-11-15.md",
     "Logbook/2024-11-14.md",
     "Wiki/Программирование/Linux/Manjaro.md",
-    "Logbook/2024-11-13.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
