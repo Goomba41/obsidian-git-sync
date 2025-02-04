@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-03.md",
+                    "file": "Logbook/2025-02-04.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-03"
+                  "title": "2025-02-04"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-03.md",
+                    "file": "Logbook/2025-02-04.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-03"
+                  "title": "2025-02-04"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -261,9 +261,10 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
+    "Logbook/2025-02-03.md",
+    "Logbook/2025-02-04.md",
     "Logbook/2025-01-31.md",
     "Logbook/2025-01-30.md",
-    "Logbook/2025-02-03.md",
     "Logbook/2025-01-29.md",
     "Logbook/2025-01-28.md",
     "Logbook/2025-01-24.md",
@@ -288,7 +289,6 @@
     "__attachments__",
     "Logbook/2024-11-22.md",
     "Logbook/2024-11-21.md",
-    "Logbook/2024-11-20.md",
     "Logbook/__attachments-2024-05-15__",
     "Logbook/__attachments-2024-05-15__/8b121ad19dbb7aee008a535901cd55af.png",
     "Logbook/__attachments-2024-05-15__/085c52f3d9a382f4e4d93383ebf6afee.png",
