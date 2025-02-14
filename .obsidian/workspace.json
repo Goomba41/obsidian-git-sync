@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-14.md",
+                    "file": "GTD/Задачи/Переключатель настройки.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-14"
+                  "title": "Переключатель настройки"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-14.md",
-                    "mode": "source",
+                    "file": "GTD/Задачи/Переключатель настройки.md",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-14"
+                  "title": "Переключатель настройки"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -260,8 +260,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
+    "Logbook/2025-02-14.md",
     "GTD/Задачи/Кастомный скорллбар.md",
     "GTD/Задачи/Сокращение количества выведенных записей.md",
     "GTD/Задачи/Календарь для выбора.md",
@@ -272,7 +273,6 @@
     "GTD/Задачи/Пофиксить критичные баги КСО.md",
     "GTD/Задачи/Взлом SpreadJS.md",
     "GTD/Проекты/МИАЦ.md",
-    "Logbook/2025-02-14.md",
     "Logbook/2025-02-13.md",
     "Logbook/2025-02-12.md",
     "Logbook/2025-02-11.md",
