@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-14.md",
+                    "file": "GTD/Задачи/Переключатель настройки.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-14"
+                  "title": "Переключатель настройки"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-14.md",
+                    "file": "GTD/Задачи/Переключатель настройки.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-14"
+                  "title": "Переключатель настройки"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -261,8 +261,13 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2025-02-13.md",
+    "GTD/Задачи/Расстановка горячих клавиш.md",
+    "GTD/Задачи/Переключатель настройки.md",
+    "GTD/Задачи/Пофиксить критичные баги КСО.md",
+    "GTD/Задачи/Взлом SpreadJS.md",
+    "GTD/Проекты/МИАЦ.md",
     "Logbook/2025-02-14.md",
+    "Logbook/2025-02-13.md",
     "Logbook/2025-02-12.md",
     "Logbook/2025-02-11.md",
     "Logbook/2025-02-10.md",
@@ -282,11 +287,6 @@
     "Logbook/2025-01-21.md",
     "Logbook/2025-01-20.md",
     "Logbook/2025-01-17.md",
-    "Logbook/2025-01-16.md",
-    "Logbook/2025-01-15.md",
-    "Logbook/2025-01-14.md",
-    "Logbook/2025-01-13.md",
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
