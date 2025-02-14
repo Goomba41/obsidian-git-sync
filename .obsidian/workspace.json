@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Календарь для выбора.md",
+                    "file": "GTD/Задачи/Кастомный скорллбар.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Календарь для выбора"
+                  "title": "Кастомный скорллбар"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Календарь для выбора.md",
-                    "mode": "preview",
+                    "file": "GTD/Задачи/Кастомный скорллбар.md",
+                    "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Календарь для выбора"
+                  "title": "Кастомный скорллбар"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#задача/сейчас",
+                "query": "однажды",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,10 +260,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "4c1609ea5dff0ee2",
   "lastOpenFiles": [
-    "GTD/Задачи/Внешний вид начала периода.md",
+    "GTD/Задачи/Сокращение количества выведенных записей.md",
+    "GTD/Задачи/Кастомный скорллбар.md",
     "GTD/Задачи/Календарь для выбора.md",
+    "GTD/Задачи/Внешний вид начала периода.md",
     "GTD/Задачи/Блокировка интерфейса.md",
     "GTD/Задачи/Переключатель настройки.md",
     "GTD/Задачи/Расстановка горячих клавиш.md",
@@ -286,8 +288,6 @@
     "Logbook/2025-01-28.md",
     "Logbook/2025-01-24.md",
     "Logbook/2025-01-27.md",
-    "Logbook/2025-01-23.md",
-    "Logbook/2025-01-22.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
