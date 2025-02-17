@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Сокращение количества выведенных записей.md",
+                    "file": "Logbook/2025-02-17.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Сокращение количества выведенных записей"
+                  "title": "2025-02-17"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Сокращение количества выведенных записей.md",
+                    "file": "Logbook/2025-02-17.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Сокращение количества выведенных записей"
+                  "title": "2025-02-17"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,13 +259,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7813e3387a7e1327",
+  "active": "3e50b62af29aae79",
   "lastOpenFiles": [
+    "GTD/Задачи/Сокращение количества выведенных записей.md",
     "GTD/Задачи/Переключатель настройки.md",
     "Logbook/2025-02-17.md",
     "Logbook/2025-02-14.md",
     "GTD/Задачи/Кастомный скорллбар.md",
-    "GTD/Задачи/Сокращение количества выведенных записей.md",
     "GTD/Задачи/Календарь для выбора.md",
     "GTD/Задачи/Внешний вид начала периода.md",
     "GTD/Задачи/Блокировка интерфейса.md",
