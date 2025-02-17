@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-17.md",
+                    "file": "GTD/Задачи/Переключатель настройки.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-17"
+                  "title": "Переключатель настройки"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-17.md",
+                    "file": "GTD/Задачи/Переключатель настройки.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-17"
+                  "title": "Переключатель настройки"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "однажды",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +132,7 @@
               "title": "Поиск"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,8 +261,8 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2025-02-14.md",
     "Logbook/2025-02-17.md",
+    "Logbook/2025-02-14.md",
     "GTD/Задачи/Переключатель настройки.md",
     "GTD/Задачи/Кастомный скорллбар.md",
     "GTD/Задачи/Сокращение количества выведенных записей.md",
