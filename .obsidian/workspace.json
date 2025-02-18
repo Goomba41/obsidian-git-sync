@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
+                    "file": "GTD/Задачи/Блокировка интерфейса.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Библиотеки HTML-CSS компонентов"
+                  "title": "Блокировка интерфейса"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
+                    "file": "GTD/Задачи/Блокировка интерфейса.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Библиотеки HTML-CSS компонентов"
+                  "title": "Блокировка интерфейса"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,16 +259,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
-    "Logbook/2025-02-18.md",
-    "Logbook/2025-02-17.md",
     "GTD/Задачи/Сокращение количества выведенных записей.md",
+    "GTD/Задачи/Внешний вид начала периода.md",
+    "GTD/Задачи/Календарь для выбора.md",
+    "Logbook/2025-02-18.md",
+    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
+    "Logbook/2025-02-17.md",
     "GTD/Задачи/Переключатель настройки.md",
     "Logbook/2025-02-14.md",
     "GTD/Задачи/Кастомный скорллбар.md",
-    "GTD/Задачи/Календарь для выбора.md",
-    "GTD/Задачи/Внешний вид начала периода.md",
     "GTD/Задачи/Блокировка интерфейса.md",
     "GTD/Задачи/Расстановка горячих клавиш.md",
     "GTD/Задачи/Пофиксить критичные баги КСО.md",
@@ -286,7 +287,6 @@
     "Logbook/2025-01-31.md",
     "Logbook/2025-01-30.md",
     "Logbook/2025-01-29.md",
-    "Logbook/2025-01-28.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
