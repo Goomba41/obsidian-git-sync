@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-18.md",
+                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-18"
+                  "title": "Библиотеки HTML-CSS компонентов"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-18.md",
+                    "file": "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-18"
+                  "title": "Библиотеки HTML-CSS компонентов"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -261,8 +261,8 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2025-02-17.md",
     "Logbook/2025-02-18.md",
+    "Logbook/2025-02-17.md",
     "GTD/Задачи/Сокращение количества выведенных записей.md",
     "GTD/Задачи/Переключатель настройки.md",
     "Logbook/2025-02-14.md",

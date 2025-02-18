@@ -8,3 +8,4 @@
 3. [Preline UI](https://preline.co/index.html)
 4. [Tail-kit](https://www.tailwind-kit.com)
 5. [Flowbite](https://flowbite.com)
+6. [shadcn-ui](https://github.com/shadcn-ui/ui)
