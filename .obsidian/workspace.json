@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-19.md",
+                    "file": "GTD/Задачи/Сокращение количества выведенных записей.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-19"
+                  "title": "Сокращение количества выведенных записей"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-19.md",
+                    "file": "GTD/Задачи/Сокращение количества выведенных записей.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-19"
+                  "title": "Сокращение количества выведенных записей"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,11 +259,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7813e3387a7e1327",
+  "active": "3e50b62af29aae79",
   "lastOpenFiles": [
+    "Logbook/2025-02-19.md",
     "Logbook/2025-02-20.md",
     "Templates/Ежедневник.md",
-    "Logbook/2025-02-19.md",
     "Templates/Задача.md",
     "Templates/Входящее.md",
     "Logbook/2025-02-18.md",
