@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-19.md",
+                    "file": "Templates/Ежедневник.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-19"
+                  "title": "Ежедневник"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-02-19.md",
+                    "file": "Templates/Ежедневник.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-02-19"
+                  "title": "Ежедневник"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,10 +259,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
-    "Logbook/2025-02-18.md",
+    "Templates/Задача.md",
+    "Templates/Входящее.md",
+    "Templates/Ежедневник.md",
+    "Logbook/2025-02-20.md",
     "Logbook/2025-02-19.md",
+    "Logbook/2025-02-18.md",
     "GTD/Задачи/Сокращение количества выведенных записей.md",
     "GTD/Задачи/Расстановка горячих клавиш.md",
     "GTD/Задачи/Блокировка интерфейса.md",
@@ -283,10 +287,6 @@
     "Logbook/2025-02-07.md",
     "Logbook/2025-02-06.md",
     "Logbook/2025-02-05.md",
-    "Logbook/2025-02-04.md",
-    "Logbook/2025-02-03.md",
-    "Logbook/2025-01-31.md",
-    "Logbook/2025-01-30.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
