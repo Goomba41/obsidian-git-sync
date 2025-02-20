@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Сокращение количества выведенных записей.md",
+                    "file": "Logbook/2025-02-20.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Сокращение количества выведенных записей"
+                  "title": "2025-02-20"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Сокращение количества выведенных записей.md",
+                    "file": "Logbook/2025-02-20.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Сокращение количества выведенных записей"
+                  "title": "2025-02-20"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,15 +259,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
-    "Logbook/2025-02-19.md",
+    "kso/kso.md",
     "Logbook/2025-02-20.md",
+    "kso",
+    "GTD/Задачи/Сокращение количества выведенных записей.md",
+    "Logbook/2025-02-19.md",
     "Templates/Ежедневник.md",
     "Templates/Задача.md",
     "Templates/Входящее.md",
     "Logbook/2025-02-18.md",
-    "GTD/Задачи/Сокращение количества выведенных записей.md",
     "GTD/Задачи/Расстановка горячих клавиш.md",
     "GTD/Задачи/Блокировка интерфейса.md",
     "GTD/Задачи/Внешний вид начала периода.md",
@@ -286,7 +288,6 @@
     "Logbook/2025-02-10.md",
     "Logbook/2025-02-07.md",
     "Logbook/2025-02-06.md",
-    "Logbook/2025-02-05.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
@@ -304,7 +305,6 @@
     "GTD/Задачи/__attachments-Опять конвертация__/20a3e99948ee680a26ce8b1ca5c9f5d8.png",
     "GTD/Справки/Персоны",
     "GTD/Справки/Персоны",
-    "GTD/Справки",
     "Wiki/Программирование/GIT/__attachments-Организация рабочего потока__/5fa022c780d286dc4eaa83883c410659.png",
     "Untitled.canvas",
     "Разобрать дерьмо/Программирование/API/__attachments-REST__/48cbd6bd379a73704ee1a4e16e298093.png",
