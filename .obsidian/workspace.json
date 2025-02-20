@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Фильтры.md",
+                    "file": "GTD/Задачи/Дневной вид календаря.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Фильтры"
+                  "title": "Дневной вид календаря"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Фильтры.md",
+                    "file": "GTD/Задачи/Дневной вид календаря.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Фильтры"
+                  "title": "Дневной вид календаря"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,10 +259,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7813e3387a7e1327",
+  "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "GTD/Задачи/Календарь для выбора.md",
     "GTD/Задачи/Фильтры.md",
+    "GTD/Задачи/Дневной вид календаря.md",
+    "GTD/Задачи/Календарь для выбора.md",
     "Logbook/2025-02-20.md",
     "kso/kso.md",
     "kso",
@@ -287,7 +288,6 @@
     "Logbook/2025-02-12.md",
     "Logbook/2025-02-11.md",
     "Logbook/2025-02-10.md",
-    "Logbook/2025-02-07.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
