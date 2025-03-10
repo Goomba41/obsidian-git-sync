@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-03-06.md",
+                    "file": "Logbook/2025-03-10.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-03-06"
+                  "title": "2025-03-10"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-03-06.md",
+                    "file": "Logbook/2025-03-10.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-03-06"
+                  "title": "2025-03-10"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -261,8 +261,10 @@
   },
   "active": "3e50b62af29aae79",
   "lastOpenFiles": [
-    "Logbook/2025-03-05.md",
+    "Logbook/2025-03-07.md",
+    "Logbook/2025-03-10.md",
     "Logbook/2025-03-06.md",
+    "Logbook/2025-03-05.md",
     "Logbook/2025-03-04.md",
     "Logbook/2025-03-03.md",
     "Logbook/2025-02-28.md",
@@ -286,8 +288,6 @@
     "GTD/Задачи/Расстановка горячих клавиш.md",
     "GTD/Задачи/Блокировка интерфейса.md",
     "GTD/Задачи/Внешний вид начала периода.md",
-    "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
-    "Logbook/2025-02-17.md",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
     "Logbook/__attachments-2024-05-15__",
