@@ -41,7 +41,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Logbook/2025-03-11.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -259,7 +259,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
     "Logbook/2025-03-10.md",
     "Logbook/2025-03-11.md",
