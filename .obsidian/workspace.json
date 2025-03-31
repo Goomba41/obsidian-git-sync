@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-03-31.md",
+                    "file": "GTD/Задачи/Исключить подписание форм.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-03-31"
+                  "title": "Исключить подписание форм"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-03-31.md",
+                    "file": "GTD/Задачи/Исключить подписание форм.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-03-31"
+                  "title": "Исключить подписание форм"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,11 +259,27 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "50f615a45a37d6ca",
+  "active": "3e50b62af29aae79",
   "lastOpenFiles": [
+    "GTD/Задачи/Сортировка отчётов по времени прибытия.md",
+    "GTD/Задачи/Исключить подписание форм.md",
+    "GTD/Задачи/Отображение прогресса заполнения форм и шаблонов.md",
+    "GTD/Задачи/Сохранения шаблона в \"Своде\".md",
+    "GTD/Задачи/Drag&Drop отчёта.md",
+    "GTD/Задачи/Переборка ОКВЭДов.md",
+    "GTD/Задачи/Проверить перенос формата и типа ячеек.md",
+    "GTD/Задачи/Проверить работу оповещения о тех. работах.md",
+    "GTD/Задачи/Отображение всех замечаний, а не только последних.md",
+    "GTD/Задачи/Системная настройка.md",
+    "GTD/Задачи/Прикрепление файлов к форме.md",
+    "GTD/Задачи/Сброс пароля администратором.md",
+    "GTD/Задачи/Установка пароля пользователями.md",
+    "Logbook/2025-03-31.md",
+    "GTD/Задачи/Заполнение ВИКИ.md",
+    "GTD/Задачи/Фильтры.md",
+    "GTD/Задачи/Дневной вид календаря.md",
     "Logbook/2025-03-26.md",
     "Logbook/2025-03-25.md",
-    "Logbook/2025-03-31.md",
     "Logbook/2025-03-24.md",
     "Logbook/2025-03-20.md",
     "Logbook/2025-03-21.md",
@@ -271,22 +287,6 @@
     "Logbook/2025-03-18.md",
     "Logbook/2025-03-19.md",
     "Logbook/2025-03-14.md",
-    "Logbook/2025-03-13.md",
-    "Logbook/2025-03-12.md",
-    "Logbook/2025-03-11.md",
-    "Logbook/2025-03-10.md",
-    "Logbook/2025-03-07.md",
-    "Logbook/2025-03-06.md",
-    "Logbook/2025-03-05.md",
-    "Logbook/2025-03-04.md",
-    "Logbook/2025-03-03.md",
-    "Logbook/2025-02-28.md",
-    "Logbook/2025-02-27.md",
-    "Logbook/2025-02-26.md",
-    "Logbook/2025-02-25.md",
-    "Logbook/2025-02-24.md",
-    "Logbook/2025-02-21.md",
-    "Logbook/2025-02-20.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",

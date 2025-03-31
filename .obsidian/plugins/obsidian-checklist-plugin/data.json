@@ -11,6 +11,7 @@
   "includeFiles": "!Templates/**",
   "lookAndFeel": "classic",
   "_collapsedSections": [
+    "#задача/однажды",
     "#проект"
   ],
   "_hiddenTags": []
