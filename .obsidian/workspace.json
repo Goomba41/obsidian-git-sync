@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Исключить подписание форм.md",
+                    "file": "GTD/Задачи/Отображение всех замечаний, а не только последних.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Исключить подписание форм"
+                  "title": "Отображение всех замечаний, а не только последних"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GTD/Задачи/Исключить подписание форм.md",
+                    "file": "GTD/Задачи/Отображение всех замечаний, а не только последних.md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Исключить подписание форм"
+                  "title": "Отображение всех замечаний, а не только последних"
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,7 +259,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
     "GTD/Задачи/Сортировка отчётов по времени прибытия.md",
     "GTD/Задачи/Исключить подписание форм.md",
