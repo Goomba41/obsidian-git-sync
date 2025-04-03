@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-04-02.md",
+                    "file": "GTD/Задачи/Сохранения шаблона в \"Своде\".md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-04-02"
+                  "title": "Сохранения шаблона в \"Своде\""
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2025-04-02.md",
+                    "file": "GTD/Задачи/Сохранения шаблона в \"Своде\".md",
                     "mode": "preview",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2025-04-02"
+                  "title": "Сохранения шаблона в \"Своде\""
                 },
                 "group": "14bdd033eb2c03ca"
               }
@@ -259,11 +259,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "7813e3387a7e1327",
   "lastOpenFiles": [
-    "GTD/Задачи/Отображение прогресса заполнения форм и шаблонов.md",
+    "Logbook/2025-04-03.md",
     "Logbook/2025-04-02.md",
     "GTD/Задачи/Сохранения шаблона в \"Своде\".md",
+    "GTD/Задачи/Отображение прогресса заполнения форм и шаблонов.md",
     "GTD/Задачи/Переборка ОКВЭДов.md",
     "GTD/Задачи/Drag&Drop отчёта.md",
     "Logbook/2025-04-01.md",
@@ -286,7 +287,6 @@
     "Logbook/2025-03-20.md",
     "Logbook/2025-03-21.md",
     "Logbook/2025-03-17.md",
-    "Logbook/2025-03-18.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
