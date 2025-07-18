@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "058169256f457fbc",
-        "type": "split",
+        "id": "3ff3d44715004019",
+        "type": "tabs",
         "children": [
           {
-            "id": "6fa89f14e100c55f",
-            "type": "tabs",
-            "dimension": 48.455598455598455,
-            "children": [
-              {
-                "id": "3e50b62af29aae79",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logbook/2025-07-17.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-07-17"
-                },
-                "group": "14bdd033eb2c03ca"
-              }
-            ]
-          },
-          {
-            "id": "f65dff4ad3f491ef",
-            "type": "tabs",
-            "dimension": 51.54440154440154,
-            "children": [
-              {
-                "id": "7813e3387a7e1327",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logbook/2025-07-17.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-07-17"
-                },
-                "group": "14bdd033eb2c03ca"
-              }
-            ]
+            "id": "cc0dd4fa7fd650e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logbook/2025-07-18.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-18"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +114,7 @@
       {
         "id": "857bf2af56fe9106",
         "type": "tabs",
-        "dimension": 56.08108108108109,
+        "dimension": 56.08108108108108,
         "children": [
           {
             "id": "39bb40081f38fc96",
@@ -259,10 +228,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e50b62af29aae79",
+  "active": "cc0dd4fa7fd650e3",
   "lastOpenFiles": [
-    "Logbook/2025-07-16.md",
     "Logbook/2025-07-17.md",
+    "Logbook/2025-07-18.md",
+    "Logbook/2025-07-16.md",
     "Logbook/2025-05-21.md",
     "GTD/Задачи/Проверить работу оповещения о тех. работах.md",
     "GTD/Задачи/Прикрепление файлов к форме.md",
@@ -286,7 +256,6 @@
     "GTD/Задачи/Фильтры.md",
     "GTD/Задачи/Дневной вид календаря.md",
     "Logbook/2025-03-26.md",
-    "Logbook/2025-03-25.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
