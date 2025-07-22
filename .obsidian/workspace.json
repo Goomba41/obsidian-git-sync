@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook/2025-07-18.md",
+                "file": "Logbook/2025-07-22.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-18"
+              "title": "2025-07-22"
             }
           }
         ]
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +230,12 @@
   },
   "active": "cc0dd4fa7fd650e3",
   "lastOpenFiles": [
-    "Logbook/2025-07-17.md",
+    "Logbook/2025-07-21.md",
+    "Logbook/2025-07-22.md",
     "Logbook/2025-07-18.md",
+    "Logbook/2025-07-20.md",
+    "Logbook/2025-07-19.md",
+    "Logbook/2025-07-17.md",
     "Logbook/2025-07-16.md",
     "Logbook/2025-05-21.md",
     "GTD/Задачи/Проверить работу оповещения о тех. работах.md",
@@ -252,10 +256,6 @@
     "GTD/Задачи/Сортировка отчётов по времени прибытия.md",
     "GTD/Задачи/Проверить перенос формата и типа ячеек.md",
     "Logbook/2025-03-31.md",
-    "GTD/Задачи/Заполнение ВИКИ.md",
-    "GTD/Задачи/Фильтры.md",
-    "GTD/Задачи/Дневной вид календаря.md",
-    "Logbook/2025-03-26.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
