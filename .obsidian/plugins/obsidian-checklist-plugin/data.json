@@ -11,9 +11,7 @@
   "includeFiles": "!Templates/**",
   "lookAndFeel": "classic",
   "_collapsedSections": [
-    "#задача/однажды",
-    "#проект",
-    "#задача/сейчас"
+    "#задача/однажды"
   ],
   "_hiddenTags": []
 }
