@@ -10,6 +10,7 @@
           {
             "id": "3359f3a3ba187066",
             "type": "tabs",
+            "dimension": 19.947916666666668,
             "children": [
               {
                 "id": "4b760c8ac9bd3cf4",
@@ -30,6 +31,7 @@
           {
             "id": "6ba1f32c2772e8db",
             "type": "tabs",
+            "dimension": 80.05208333333333,
             "children": [
               {
                 "id": "55ef8b063cdc19a1",
@@ -221,8 +223,29 @@
               "icon": "clock",
               "title": "Reminders"
             }
+          },
+          {
+            "id": "48fb4485a11eb86e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1794ff450444bf5c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "01c4f3e30ecd57b4",
@@ -243,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
