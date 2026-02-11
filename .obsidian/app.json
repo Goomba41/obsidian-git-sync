@@ -10,5 +10,6 @@
   "showLineNumber": true,
   "livePreview": false,
   "trashOption": "local",
-  "newFileFolderPath": "Attachments"
+  "newFileFolderPath": "Attachments",
+  "openBehavior": "daily"
 }

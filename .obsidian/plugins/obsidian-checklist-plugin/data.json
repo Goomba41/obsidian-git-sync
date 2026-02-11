@@ -2,6 +2,7 @@
   "todoPageName": "todo\nзадача\nпроект",
   "showChecked": false,
   "showAllTodos": false,
+  "showOnlyActiveFile": false,
   "autoRefresh": true,
   "subGroups": false,
   "groupBy": "tag",
@@ -10,8 +11,6 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "!Templates/**",
   "lookAndFeel": "classic",
-  "_collapsedSections": [
-    "#задача/однажды"
-  ],
+  "_collapsedSections": [],
   "_hiddenTags": []
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff3d44715004019",
+        "id": "24e9fadbe4a48be5",
         "type": "tabs",
         "children": [
           {
-            "id": "cc0dd4fa7fd650e3",
+            "id": "6167dd2b036c25be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logbook/2025-11-07.md",
-                "mode": "source",
+                "file": "kso/kso.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-07"
+              "title": "kso"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -62,7 +62,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           }
         ]
@@ -81,7 +81,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -116,16 +116,6 @@
         "type": "tabs",
         "dimension": 56.08108108108108,
         "children": [
-          {
-            "id": "39bb40081f38fc96",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
           {
             "id": "fd510a7be35172a2",
             "type": "leaf",
@@ -170,16 +160,39 @@
               "icon": "lucide-list",
               "title": "Структура 2024-10-18"
             }
-          }
-        ]
-      },
-      {
-        "id": "01c4f3e30ecd57b4",
-        "type": "tabs",
-        "dimension": 43.91891891891892,
-        "children": [
+          },
           {
-            "id": "195191279932b6fc",
+            "id": "6ea612d42b473ebf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "8fcac89a5d061010",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "d0fc322c6ff5aad2",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "d8352b534e0280b5",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -187,7 +200,15 @@
               "icon": "clock",
               "title": "Reminders"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "01c4f3e30ecd57b4",
+        "type": "tabs",
+        "dimension": 43.91891891891892,
+        "children": [
           {
             "id": "50f615a45a37d6ca",
             "type": "leaf",
@@ -197,19 +218,8 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "4f2d49c2ef7eba91",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,27 +227,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc0dd4fa7fd650e3",
+  "active": "6167dd2b036c25be",
   "lastOpenFiles": [
+    "GTD/GTD и организация папки.md",
+    "Logbook/2026-02-11.md",
+    "Logbook/2025-11-07.md",
     "GTD/Проекты/МИАЦ.md",
     "GTD/Задачи/Внешний вид начала периода.md",
     "GTD/Задачи/Взлом SpreadJS.md",
     "GTD/Задачи/Блокировка интерфейса.md",
     "GTD/Задачи/Заполнение ВИКИ.md",
     "GTD/Задачи/Обновить CI.md",
-    "Logbook/2025-11-07.md",
     "Logbook/2025-07-23.md",
     "Logbook/2025-07-22.md",
     "Logbook/2025-07-18.md",
@@ -255,8 +270,6 @@
     "GTD/Задачи/Установка пароля пользователями.md",
     "Logbook/2025-04-03.md",
     "GTD/Задачи/Сохранения шаблона в \"Своде\".md",
-    "Logbook/2025-04-02.md",
-    "GTD/Задачи/Отображение прогресса заполнения форм и шаблонов.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
