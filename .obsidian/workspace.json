@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
+                    "file": "Logbook/2026-02-11.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Система подсветки комментариев для кода"
+                  "title": "2026-02-11"
                 }
               }
             ]
@@ -167,54 +167,6 @@
             }
           },
           {
-            "id": "ec7df0aabe8b1074",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Система подсветки комментариев для кода"
-            }
-          },
-          {
-            "id": "926b29d4f6a4d32c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Система подсветки комментариев для кода"
-            }
-          },
-          {
-            "id": "69f1300b434f106e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Система подсветки комментариев для кода"
-            }
-          },
-          {
             "id": "35bbf0afcbc692c1",
             "type": "leaf",
             "state": {
@@ -225,27 +177,54 @@
             }
           },
           {
-            "id": "48fb4485a11eb86e",
+            "id": "5e7386dbc31aaa98",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "backlink",
+              "state": {
+                "file": "Logbook/2026-02-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-11"
             }
           },
           {
-            "id": "1794ff450444bf5c",
+            "id": "f54890c6a4a7adcf",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logbook/2026-02-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-02-11"
+            }
+          },
+          {
+            "id": "791fcbcdedddc58f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logbook/2026-02-11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-02-11"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "01c4f3e30ecd57b4",
@@ -284,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55ef8b063cdc19a1",
+  "active": "4b760c8ac9bd3cf4",
   "lastOpenFiles": [
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Untitled Diagram 1.svg",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
