@@ -40,7 +40,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logbook/2026-02-11.md",
+                "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-11"
+              "title": "Backlinks for Система подсветки комментариев для кода"
             }
           },
           {
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logbook/2026-02-11.md",
+                "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-02-11"
+              "title": "Outgoing links from Система подсветки комментариев для кода"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logbook/2026-02-11.md",
+                "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-11"
+              "title": "Outline of Система подсветки комментариев для кода"
             }
           }
         ]
@@ -263,13 +263,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b760c8ac9bd3cf4",
+  "active": "55ef8b063cdc19a1",
   "lastOpenFiles": [
+    "Logbook/2026-02-11.md",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Untitled Diagram 1.svg",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
     "Untitled.canvas",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Untitled Diagram.svg",
-    "Logbook/2026-02-11.md",
     "__attachments__/Pasted image 20260211104246.png",
     "__attachments__/Pasted image 20260211103607.png",
     "__attachments__/Pasted image 20260211094650.png",
