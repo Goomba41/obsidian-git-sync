@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -180,6 +180,7 @@
   },
   "active": "2e0d617fae1c6ff5",
   "lastOpenFiles": [
+    "__attachments__/Pasted image 20260211094650.png",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Расширения и профиль для Vue-приложений.md",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
     "GTD/GTD и организация папки.md",
@@ -208,7 +209,6 @@
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
     "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
     "Wiki/Программирование/Linux/🧰 CLI-инструменты.md",
-    "Wiki/Программирование/Linux/Self-hosted штуки.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
