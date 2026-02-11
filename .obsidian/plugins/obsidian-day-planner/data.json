@@ -38,5 +38,6 @@
   "showTimeTracker": false,
   "showActiveClocks": false,
   "showDataviewMigrationWarning": false,
-  "unscheduledTasksHeight": 100
+  "unscheduledTasksHeight": 100,
+  "rawIcals": []
 }

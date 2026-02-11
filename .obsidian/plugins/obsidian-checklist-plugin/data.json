@@ -11,6 +11,9 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "!Templates/**",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "#проект",
+    "#задача/однажды"
+  ],
   "_hiddenTags": []
 }
