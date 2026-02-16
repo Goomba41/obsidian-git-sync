@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Logbook/2026-02-13.md",
+                    "file": "Logbook/2026-02-16.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "2026-02-13"
+                  "title": "2026-02-16"
                 }
               }
             ]
@@ -266,6 +266,7 @@
   "active": "55ef8b063cdc19a1",
   "lastOpenFiles": [
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
+    "Logbook/2026-02-16.md",
     "Logbook/2026-02-13.md",
     "Logbook/2026-02-11.md",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Untitled Diagram 1.svg",
@@ -299,7 +300,6 @@
     "Wiki/Программирование/Фронт/Языки/JavaScript/Получение значений Enum.md",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Пересечения массивов.md",
     "Wiki/Программирование/Фронт/Языки/JavaScript/Event Loop (Событийный цикл).md",
-    "Wiki/Программирование/Фронт/Вставка изображений в консоль.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
