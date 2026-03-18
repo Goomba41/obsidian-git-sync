@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-03-18"
             }
+          },
+          {
+            "id": "312453fcbee49b37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-18 10.17.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-18 10.17.23.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +206,19 @@
               "icon": "lucide-list",
               "title": "Outline of Система подсветки комментариев для кода"
             }
+          },
+          {
+            "id": "9324296680424a7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "01c4f3e30ecd57b4",
@@ -230,13 +254,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b760c8ac9bd3cf4",
+  "active": "312453fcbee49b37",
   "lastOpenFiles": [
-    "Wiki/Программирование/Общее/Архитектура приложения.md",
     "Logbook/2026-03-18.md",
+    "Excalidraw/Drawing 2026-03-18 10.17.23.excalidraw.md",
+    "Excalidraw",
+    "Wiki/Программирование/Общее/Архитектура приложения.md",
     "Logbook/2026-03-10.md",
     "Logbook/2026-03-05.md",
     "Wiki/Программирование/Редакторы кода и IDE/VS Code/Система подсветки комментариев для кода.md",
@@ -269,7 +296,6 @@
     "Wiki/Программирование/Фронт/Инструменты/Всякое полезное.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки HTML-CSS компонентов.md",
     "Wiki/Программирование/Фронт/Инструменты/Библиотеки (кросс-фреймворочные).md",
-    "Wiki/Программирование/Фронт/Фрэймворки/Angular/Обработка ошибок в Angular.md",
     "kso",
     "__attachments__/Pasted image 20241125105150.png",
     "__attachments__",
@@ -281,7 +307,6 @@
     "Wiki/Программирование/Windows",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__",
     "GTD/Задачи/__attachments-Посмотреть ответ АГЗРТ__/Описание NotificationReportRequest.docx",
-    "Logbook/__attachments-2024-02-19__",
     "Программирование/Frontend/Tools/Без названия.canvas"
   ]
 }
