@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c608d31236f00822",
+        "id": "aaaebea0ff2c4f81",
         "type": "tabs",
         "children": [
           {
-            "id": "623688207aca6387",
+            "id": "d2c16de9e9af5a29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki/Программирование/DDD + Clean Architecture/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -271,8 +267,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "623688207aca6387",
+  "active": "d2c16de9e9af5a29",
   "lastOpenFiles": [
+    "Logbook/2026-09-21.md",
     "Wiki/Программирование/API/Лучшие практики построения API.md",
     "Wiki/Программирование/DDD + Clean Architecture/Untitled.md",
     "Wiki/Проекты/Hidden Hippo/00-MOCs/UI-UX MOC.md",
@@ -280,7 +277,6 @@
     "Wiki/Проекты/Hidden Hippo/00-MOCs/Architecture MOC.md",
     "Wiki/Проекты/Hidden Hippo/00-MOCs/Development MOC.md",
     "Wiki/Проекты/Hidden Hippo/00-MOCs/Home.md",
-    "Logbook/2026-09-21.md",
     "Wiki/Программирование/Общее/Общие замечания.md",
     "Logbook/2026-04-07.md",
     "Wiki/Программирование/Общее/Архитектура приложения.md",
