@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logbook/2026-10-15.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-10-15"
             }
           }
         ]
@@ -272,8 +272,9 @@
   },
   "active": "768e5da2ffe16e23",
   "lastOpenFiles": [
-    "Untited.md",
     "README.md",
+    "Logbook/2026-10-15.md",
+    "Untited.md",
     "Logbook/2026-10-06.md",
     "__attachments__/agent-workflows.md",
     "Wiki/Awesomes.md",
@@ -297,7 +298,6 @@
     "Logbook/2026-03-10.md",
     "Logbook/2026-03-18.md",
     "Logbook/2026-03-26.md",
-    "Logbook/2026-04-07.md",
     "Wiki/Программирование/DDD + Clean Architecture",
     "Wiki/Проекты/Hidden Hippo/01-Architecture",
     "Wiki/Проекты/Hidden Hippo/00-MOCs",
