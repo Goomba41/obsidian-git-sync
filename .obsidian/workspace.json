@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b26d272dd06768",
+        "id": "e87e6b179aca3d02",
         "type": "tabs",
         "children": [
           {
-            "id": "6e2e106b6521aeba",
+            "id": "85cf5a69b4535da9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Logbook/2026-10-16.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-16"
             }
           }
         ]
@@ -276,8 +280,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e2e106b6521aeba",
+  "active": "85cf5a69b4535da9",
   "lastOpenFiles": [
+    "Logbook/2026-10-16.md",
+    "Wiki/Программирование/Общее/Архитектура приложения.md",
+    "Wiki/Программирование/Общее/Общие замечания.md",
     "Logbook/Untitled.base",
     "Logbook/2026-10-15.md",
     "README.md",
@@ -302,8 +309,6 @@
     "Logbook/2025-04-02.md",
     "Logbook/2025-11-07.md",
     "Logbook/2026-02-11.md",
-    "Logbook/2026-03-10.md",
-    "Logbook/2026-03-18.md",
     "Wiki/Программирование/DDD + Clean Architecture",
     "Wiki/Проекты/Hidden Hippo/01-Architecture",
     "Wiki/Проекты/Hidden Hippo/00-MOCs",
